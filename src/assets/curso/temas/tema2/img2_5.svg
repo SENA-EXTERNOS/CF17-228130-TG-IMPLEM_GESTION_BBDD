@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="715" height="402" viewBox="0 0 715 402">
+  <g id="Grupo_112215" data-name="Grupo 112215" transform="translate(4244.367 8460.913)">
+    <rect id="Rectángulo_40618" data-name="Rectángulo 40618" width="715" height="402" rx="23" transform="translate(-4244.367 -8460.913)" fill="#fff"/>
+    <g id="Grupo_111173" data-name="Grupo 111173" transform="translate(-4896.034 -14512.913)">
+      <g id="Grupo_111166" data-name="Grupo 111166" transform="translate(619 1103)">
+        <rect id="Rectángulo_40611" data-name="Rectángulo 40611" width="112" height="35" rx="5" transform="translate(480.667 5007)" fill="#cce3f2"/>
+        <text id="Plan_rápido" data-name="Plan rápido" transform="translate(495.667 5030)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">Plan rápido</tspan></text>
+      </g>
+      <g id="Grupo_111172" data-name="Grupo 111172" transform="translate(333 1119)">
+        <rect id="Rectángulo_40611-2" data-name="Rectángulo 40611" width="133" height="35" rx="5" transform="translate(456.667 5007)" fill="#cce3f2"/>
+        <text id="Comunicación" transform="translate(471.667 5030)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">Comunicación</tspan></text>
+      </g>
+      <g id="Grupo_111169" data-name="Grupo 111169" transform="translate(661 1151)">
+        <rect id="Rectángulo_40611-3" data-name="Rectángulo 40611" width="151" height="35" rx="5" transform="translate(480.667 5007)" fill="#cce3f2"/>
+        <text id="Modelado_rapido" data-name="Modelado rapido" transform="translate(495.667 5030)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">Modelado rapido</tspan></text>
+      </g>
+      <g id="Grupo_111171" data-name="Grupo 111171" transform="translate(270 1330)">
+        <rect id="Rectángulo_40611-4" data-name="Rectángulo 40611" width="173" height="59" rx="5" transform="translate(463.667 4982)" fill="#cce3f2"/>
+        <text id="Despliegue_Entrega_y_retroalimentación" data-name="Despliegue, Entrega
+y retroalimentación" transform="translate(478.667 5005)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">Despliegue, Entrega</tspan><tspan x="0" y="24">y retroalimentación</tspan></text>
+      </g>
+      <g id="Grupo_111170" data-name="Grupo 111170" transform="translate(643 1323)">
+        <rect id="Rectángulo_40611-5" data-name="Rectángulo 40611" width="130" height="59" rx="5" transform="translate(495.667 4989)" fill="#cce3f2"/>
+        <text id="Construcción_del_producto" data-name="Construcción 
+del producto" transform="translate(510.667 5012)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">Construcción </tspan><tspan x="0" y="24">del producto</tspan></text>
+      </g>
+      <g id="Grupo_111168" data-name="Grupo 111168" transform="translate(-1287.443 4975.497)">
+        <path id="Trazado_116043" data-name="Trazado 116043" d="M2335.977,1160.963l-27.3,18.36h-.285a98.179,98.179,0,0,0-98.18,97.609l-18.272-27.17-26.831,24.331a143.319,143.319,0,0,1,143.282-139.913c1.114,0,2.221.014,3.328.041Z" fill="#00b1c9" stroke="#fff" stroke-miterlimit="10" stroke-width="4"/>
+        <path id="Trazado_116044" data-name="Trazado 116044" d="M2519.508,1277.522c0,1.032-.014,2.058-.034,3.091v.007l-26.906,24.4-18.2-27.068v-.428a98.182,98.182,0,0,0-97.895-98.18l27.3-18.36-24.256-26.742A143.321,143.321,0,0,1,2519.508,1277.522Z" transform="translate(-67.792 -0.019)" fill="#084a93" stroke="#fff" stroke-miterlimit="10" stroke-width="4"/>
+        <path id="Trazado_116045" data-name="Trazado 116045" d="M2506.282,1348.479a143.323,143.323,0,0,1-143.289,140.226c-1.06,0-2.119-.014-3.172-.041h-.007l-24.474-26.987,26.939-18.123h.007c.238.007.469.007.707.007a98.183,98.183,0,0,0,98.18-97.752l18.2,27.068Z" transform="translate(-54.6 -67.879)" fill="#00defc" stroke="#fff" stroke-miterlimit="10" stroke-width="4"/>
+        <path id="Trazado_116046" data-name="Trazado 116046" d="M2281.211,1448.376l24.474,26.987a143.31,143.31,0,0,1-140.144-143.282c0-1.141.014-2.276.041-3.41l26.831-24.331,18.272,27.17v.571a98.17,98.17,0,0,0,97.467,98.173Z" transform="translate(-0.138 -54.578)" fill="#b9ddfc" stroke="#fff" stroke-miterlimit="10" stroke-width="4"/>
+      </g>
+    </g>
+  </g>
+</svg>

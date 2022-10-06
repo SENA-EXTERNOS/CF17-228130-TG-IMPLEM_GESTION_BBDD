@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="715" height="402" viewBox="0 0 715 402">
+  <g id="Grupo_112217" data-name="Grupo 112217" transform="translate(4244.367 9747.299)">
+    <g id="Grupo_112213" data-name="Grupo 112213" transform="translate(0 7.614)">
+      <rect id="Rectángulo_40614" data-name="Rectángulo 40614" width="715" height="402" rx="23" transform="translate(-4244.367 -9754.913)" fill="#fff"/>
+      <g id="Grupo_111147" data-name="Grupo 111147" transform="translate(-4894.034 -14531.913)">
+        <path id="Trazado_116035" data-name="Trazado 116035" d="M0,0,279,315" transform="translate(704.667 4805)" fill="none" stroke="#ffb30b" stroke-width="3"/>
+        <path id="Polígono_23" data-name="Polígono 23" d="M9,0l9,15H0Z" transform="translate(995.29 5118.533) rotate(133)" fill="#ffb30b"/>
+      </g>
+      <g id="Grupo_111148" data-name="Grupo 111148" transform="translate(-3849.657 -9726.913)">
+        <path id="Trazado_116035-2" data-name="Trazado 116035" d="M0,315,279,0" transform="translate(0 11.697)" fill="none" stroke="#ffb30b" stroke-width="3"/>
+        <path id="Polígono_23-2" data-name="Polígono 23" d="M9,0l9,15H0Z" transform="translate(278.347 0) rotate(47)" fill="#ffb30b"/>
+      </g>
+      <text id="Software_ejecutable" data-name="Software ejecutable" transform="translate(-3943.367 -9392.913)" fill="#12263f" font-size="14" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-62.764" y="15">Software ejecutable</tspan></text>
+      <g id="Grupo_111146" data-name="Grupo 111146" transform="translate(-4899.034 -14525.913)">
+        <g id="Grupo_111138" data-name="Grupo 111138" transform="translate(-256 -732)">
+          <path id="Trazado_116030" data-name="Trazado 116030" d="M3.356,0H145.644C147.5,0,149,2.239,149,5V38c0,2.761-1.5,5-3.356,5H3.356C1.5,43,0,40.761,0,38V5C0,2.239,1.5,0,3.356,0Z" transform="translate(937.667 5559)" fill="#b9ddfc"/>
+          <text id="Modelado_de_los_requerimiento" data-name="Modelado de los requerimiento" transform="translate(945.667 5563)" fill="#12263f" font-size="14" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-51.957" y="15">Modelado de los </tspan><tspan x="-44.242" y="33">requerimiento</tspan></text>
+        </g>
+        <g id="Grupo_111142" data-name="Grupo 111142" transform="translate(248 -771)">
+          <path id="Trazado_116030-2" data-name="Trazado 116030" d="M3.356,0H145.644C147.5,0,149,2.239,149,5V38c0,2.761-1.5,5-3.356,5H3.356C1.5,43,0,40.761,0,38V5C0,2.239,1.5,0,3.356,0Z" transform="translate(945.667 5598)" fill="#b9ddfc"/>
+          <text id="Pruebas_de_aceptación" data-name="Pruebas de aceptación" transform="translate(953.667 5602)" fill="#12263f" font-size="14" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-35.533" y="15">Pruebas de </tspan><tspan x="-34.631" y="33">aceptación</tspan></text>
+        </g>
+        <g id="Grupo_111139" data-name="Grupo 111139" transform="translate(-215 -663)">
+          <path id="Trazado_116030-3" data-name="Trazado 116030" d="M3.356,0H145.644C147.5,0,149,2.239,149,5V38c0,2.761-1.5,5-3.356,5H3.356C1.5,43,0,40.761,0,38V5C0,2.239,1.5,0,3.356,0Z" transform="translate(937.667 5559)" fill="#b9ddfc"/>
+          <text id="Diseño_de_la_arquitectura" data-name="Diseño de la arquitectura" transform="translate(945.667 5563)" fill="#12263f" font-size="14" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-38.49" y="15">Diseño de la </tspan><tspan x="-38.319" y="33">arquitectura</tspan></text>
+        </g>
+        <g id="Grupo_111143" data-name="Grupo 111143" transform="translate(202 -663)">
+          <path id="Trazado_116030-4" data-name="Trazado 116030" d="M3.356,0H145.644C147.5,0,149,2.239,149,5V38c0,2.761-1.5,5-3.356,5H3.356C1.5,43,0,40.761,0,38V5C0,2.239,1.5,0,3.356,0Z" transform="translate(937.667 5559)" fill="#b9ddfc"/>
+          <text id="Pruebas_del_sistema_" data-name="Pruebas del 
+sistema " transform="translate(945.667 5563)" fill="#12263f" font-size="14" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-37.389" y="15">Pruebas del </tspan><tspan x="-25.016" y="33">sistema </tspan></text>
+        </g>
+        <g id="Grupo_111140" data-name="Grupo 111140" transform="translate(-156 -592)">
+          <path id="Trazado_116030-5" data-name="Trazado 116030" d="M3.356,0H145.644C147.5,0,149,2.239,149,5V38c0,2.761-1.5,5-3.356,5H3.356C1.5,43,0,40.761,0,38V5C0,2.239,1.5,0,3.356,0Z" transform="translate(937.667 5559)" fill="#b9ddfc"/>
+          <text id="Diseño_de_los_componentes_" data-name="Diseño de los componentes " transform="translate(945.667 5563)" fill="#12263f" font-size="14" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-42.294" y="15">Diseño de los </tspan><tspan x="-42.94" y="33">componentes </tspan></text>
+        </g>
+        <g id="Grupo_111144" data-name="Grupo 111144" transform="translate(159 -592)">
+          <path id="Trazado_116030-6" data-name="Trazado 116030" d="M3.356,0H145.644C147.5,0,149,2.239,149,5V38c0,2.761-1.5,5-3.356,5H3.356C1.5,43,0,40.761,0,38V5C0,2.239,1.5,0,3.356,0Z" transform="translate(937.667 5559)" fill="#b9ddfc"/>
+          <text id="Diseño_de_los_componentes_2" data-name="Diseño de los componentes " transform="translate(945.667 5563)" fill="#12263f" font-size="14" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-42.294" y="15">Diseño de los </tspan><tspan x="-42.94" y="33">componentes </tspan></text>
+        </g>
+        <g id="Grupo_111141" data-name="Grupo 111141" transform="translate(-87 -522)">
+          <path id="Trazado_116030-7" data-name="Trazado 116030" d="M3.356,0H145.644C147.5,0,149,2.239,149,5V38c0,2.761-1.5,5-3.356,5H3.356C1.5,43,0,40.761,0,38V5C0,2.239,1.5,0,3.356,0Z" transform="translate(937.667 5559)" fill="#b9ddfc"/>
+          <text id="Generación_de_código_" data-name="Generación de código " transform="translate(945.667 5563)" fill="#12263f" font-size="14" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-45.315" y="15">Generación de </tspan><tspan x="-21.362" y="33">código </tspan></text>
+        </g>
+        <g id="Grupo_111145" data-name="Grupo 111145" transform="translate(120 -522)">
+          <path id="Trazado_116030-8" data-name="Trazado 116030" d="M3.356,0H145.644C147.5,0,149,2.239,149,5V38c0,2.761-1.5,5-3.356,5H3.356C1.5,43,0,40.761,0,38V5C0,2.239,1.5,0,3.356,0Z" transform="translate(937.667 5559)" fill="#b9ddfc"/>
+          <text id="Diseño_de_los_componentes_3" data-name="Diseño de los componentes " transform="translate(945.667 5563)" fill="#12263f" font-size="14" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-42.294" y="15">Diseño de los </tspan><tspan x="-42.94" y="33">componentes </tspan></text>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
