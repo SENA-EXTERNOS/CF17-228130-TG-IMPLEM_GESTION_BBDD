@@ -7,20 +7,20 @@
         span 3
       h1 Herramientas para captura de requisitos
     
-    .row.mb-5      
+    .row.justify-content-center.align-items-center.my-lg-4.mb-5
+      .col-12
+        p.mb-0 Cuando hablamos de “#[b captura de requisitos]” nos referimos específicamente a la forma de descubrir, descifrar y obtener cada uno de los requisitos funcionales y no funcionales del proyecto, con el objeto de definir de forma clara y concisa sus requerimientos.  
+    .row.justify-content-center.align-items-center.my-lg-4.mb-5
       .col-lg-12        
         //- .bloque-texto-e debe ir acompañado de una de una de estas clases => 
         //- .color-primario, .color-secundario, .color-acento-contenido, .color-acento-botones
-        .bloque-texto-e.color-acento-botones.p-4
+        .bloque-texto-e.color-acento-contenido.p-4
           .bloque-texto-e__texto
           .row.align-items-center
             .col-lg-8
               .bloque-texto-a__texto.p-4(
             :style="{'border': `dashed 5px #084A93`}")
-                p.mb-0 Cuando hablamos de “#[b captura de requisitos]” nos referimos específicamente a la forma de descubrir, descifrar y obtener cada uno de los requisitos funcionales y no funcionales del proyecto, con el objeto de definir de forma clara y concisa sus requerimientos.
-                  br
-                  br
-                  | La alta demanda de desarrolladores de #[i software] es innegable y crece de forma exponencial, especialmente en el ámbito de las bases de datos; los anuncios de vacantes piden una serie de requisitos muy amplios, en cuanto a conocimiento y experiencia; sin embargo, muy pocos mencionan la importancia de los requisitos, como si la tendencia fuera el dejar de lado la captura de requisitos, lo cual se constituye en el primer y más grave error en los proyectos de desarrollo de #[i software]. Sin lugar a dudas, la mencionada captura de requisitos y sus técnicas de extracción de información, es uno de los momentos más importantes en el ciclo de vida de desarrollo de software. En la misma tónica están los expertos y estudiosos del tema que se centran básicamente en cómo se plasman y definen los requisitos sin ir más allá; es decir, en menciona el lenguaje natural, diagramas de casos de uso, historias de usuario y etc., pero, en definitiva, ninguno o casi ninguno se centra en explicar y resaltar la importancia de conseguir todos y cada uno de los requisitos de las personas implicadas en el sistema #[i Stakeholders].
+                p.mb-0 La alta demanda de desarrolladores de #[i software] es innegable y crece de forma exponencial, especialmente en el ámbito de las bases de datos; los anuncios de vacantes piden una serie de requisitos muy amplios, en cuanto a conocimiento y experiencia; sin embargo, muy pocos mencionan la importancia de los requisitos, como si la tendencia fuera el dejar de lado la captura de requisitos, lo cual se constituye en el primer y más grave error en los proyectos de desarrollo de #[i software]. Sin lugar a dudas, la mencionada captura de requisitos y sus técnicas de extracción de información, es uno de los momentos más importantes en el ciclo de vida de desarrollo de software. En la misma tónica están los expertos y estudiosos del tema que se centran básicamente en cómo se plasman y definen los requisitos sin ir más allá; es decir, en menciona el lenguaje natural, diagramas de casos de uso, historias de usuario y etc., pero, en definitiva, ninguno o casi ninguno se centra en explicar y resaltar la importancia de conseguir todos y cada uno de los requisitos de las personas implicadas en el sistema #[i Stakeholders].
             .col-lg-4
                 img(src='@/assets/curso/temas/tema3/img3_1.png', alt='') 
             
@@ -29,7 +29,7 @@
         //- .bloque-texto-e debe ir acompañado de una de una de estas clases => 
         //- .color-primario, .color-secundario, .color-acento-contenido, .color-acento-botones
         
-        .bloque-texto-e.color-acento-botones.p-4
+        .bloque-texto-e.color-acento-contenido.p-4
           .bloque-texto-e__texto
           .row.align-items-center
             .col-lg-4
@@ -61,14 +61,20 @@
         figure(data-aos="zoom-in")
           img(src="@/assets/curso/temas/tema3/img3_4.png", alt="alt")
       .col-xl-6
-        .cajon.color-acento-contenido.p-4          
+        .cajon.color-acento-contenido.p-4
           p(data-aos="fade-down") Lenguaje Unificado de Modelado “UML”(#[i Unified Modeling Language]), es el más reconocido, utilizado y difundido en la actualidad en cuanto a modelado de sistemas de #[i software]. Además del manejo gráfico, sobresale también lsu estandarización mundial.
     
     .row
-      .col-xl-10         
+      .col-xl-12         
             p(data-aos="fade-down") Al igual que la historia de la humanidad, en el desarrollo de #[i software] se fue dando la evolución en la medida de las necesidades, de esta forma, en la década de los 90, los sistemas de información se hicieron más complejos, cada vez era más difícil construir un sistema “desde cero”, características como el mantenimiento y la reutilización de código fuente, se alejaban cada vez más de los desarrolladores, aumentando considerablemente los cronogramas y tiempos requeridos para tal fin.<br>Posteriormente surgieron los lenguajes de programación orientados a objetos, trayendo consigo, como es apenas lógico, los primeros lenguajes de modelado orientados a objetos. En esa misma época, aparecieron las primeras publicaciones, en forma masiva, sobre análisis y diseños orientados al tema. Era el momento de la creación de un lenguaje de modelado unificado. Fue así como a inicios de esos mismos años, los métodos orientados a objetos de Grady Booch y James Rumbaugh se difundieron y utilizaron muy ampliamente. Consecuentemente, en octubre de 1994, 
               span.text-bold #[i Rational Software Corporation] 
-              | (que desde febrero de 2003 hace parte de IBM) inició su proyecto para la creación de un lenguaje de modelado unificado. El primer paso fue acordar una estandarización de la notación (lenguaje), que lo lograron integrando el Método Booch (de Grady Booch), la técnica de modelado de objetos (OMT por sus siglas en inglés, de James Rumbaugh) y la Ingeniería de #[i software] orientada a objetos (OOSE por sus siglas en inglés de Ivar Jacobsen), complementando con otros pocos elementos de otros métodos, publicando la nueva notación bajo el nombre UML (#[i Unified Modeling Language]). Lo más sobresaliente y admirable de UML, realmente no es su contenido, sino su estandarización a un solo lenguaje unificado, que el mundo entero respeta y acata, lo cual es uno de los avances más significativos en la historia del desarrollo de #[i software].
+              | (que desde febrero de 2003 hace parte de IBM) inició su proyecto para la creación de un lenguaje de modelado unificado. El primer paso fue acordar una estandarización de la notación (lenguaje), que lo lograron integrando el Método Booch (de Grady Booch), la técnica de modelado de objetos (OMT por sus siglas en inglés, de James Rumbaugh) y la Ingeniería de #[i software] orientada a objetos (OOSE por sus siglas en inglés de Ivar Jacobsen), complementando con otros pocos elementos de otros métodos, publicando la nueva notación bajo el nombre UML (#[i Unified Modeling Language]).
+    
+    .row.justify-content-center.align-items-center.mb-5
+      .col-xl-6
+        .cajon.color-primario.p-3.p-sm-4.p-4
+          p(data-aos="fade-down") Lo más sobresaliente y admirable de UML, realmente no es su contenido, sino su estandarización a un solo lenguaje unificado, que el mundo entero respeta y acata, lo cual es uno de los avances más significativos en la historia del desarrollo de #[i software].
+    
     .row
       .col-xl-12
         p(data-aos="fade-down") 
@@ -271,7 +277,7 @@
                   p(data-aos="fade-down").mb-0 Para profundizar en este tema de casos de uso, lo invito a que visualice el siguiente video que explica de manera muy práctica este tema.
                 .col-sm-auto
                   a.boton.color-acento-botones(:href="obtenerLink('#')" target="_blank")
-                    span.ts Descargar
+                    span.ts Visualizar
                     i.ts.fas.fa-file-download
 
     Separador
@@ -380,8 +386,12 @@
               li 
                 i.fas.fa-check
                 p.mb-0 #[i StoryboardThat]
-
-
+      
+    .row.align-items-center.mb-5
+      .col-xl-4
+      .col-xl-8
+        .cajon.color-primario.p-3.p-sm-4.p-4
+          p(data-aos="fade-down") Recuerde que el componente formativo dispone de más recursos que se ubican en este, para ello diríjase al menú principal en donde encontrará entre otros, la síntesis, una actividad didáctica, material complementario.
 </template>
 
 <script>
