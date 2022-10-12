@@ -160,3 +160,75 @@
 
 .acordion__contenido
     background-color: #f3f9ff;
+
+.bloque-derecha
+  .bloque-texto-g__img
+    left: auto
+    right: 0
+  .bloque-texto-g
+    justify-content: start
+  .bloque-texto-g__texto--border
+    position: relative
+    width: 57%
+    border: 2px dashed #004B89
+  .bloque-texto-g__texto
+    width: 100%
+
+.bloque-izquierda
+  .bloque-texto-g
+    justify-content: start
+  .bloque-texto-g__img
+    left: auto
+    right: 0  
+  .bloque-texto-g__texto--border
+    position: relative
+    width: 57%
+    border: 2px dashed #004B89
+  .bloque-texto-g__texto
+    width: 100%
+
+.border-dash
+  border: 2px dashed #004B89
+
+.dots-editados
+  .infografica__item__dot:after ,,.img-infografica-b__item__dot:before
+    opacity: 1 !important
+  .img-infografica__item
+    opacity: 1 !important
+    transform: scale(2)
+  .img-infografica__item:hover .img-infografica-b__item__tooltip
+    display: none
+  .img-infografica-b__modal
+    background-color: #dee5e8
+  .img-infografica__item__numero
+    color: #004B89 !important
+
+.bg-gradient
+  background: rgb(0,78,150)
+  background-color: linear-gradient(180deg, rgba(0,78,150,1) 0%, rgba(12,40,74,1) 100%)
+
+.border-dash-rows
+  border: 3px dashed #b9ddfc
+  position: relative
+  &:before
+    content: url('../assets/curso/temas/tema1/adorno1.svg')
+    position: absolute
+    top: 0
+    left: 0
+    width: 57px
+    height: 57px
+    z-index: 1
+    transform: translate(-50%, -50%)
+  &:after
+    content: url('../assets/curso/temas/tema1/adorno1.svg')
+    position: absolute
+    bottom: 0
+    right: 0
+    width: 57px
+    height: 57px
+    z-index: 1
+    transform: rotate(180deg) translate(-50%, -50%)
+
+p span
+  color: #FFB30B;
+  font-weight: bold;

@@ -178,14 +178,14 @@ export default {
       referencia:
         'Sommerville, I. (2011). Ingeniería de software. Novena Edición. México: Pearson Educación',
       tipo: 'Libro',
-      descarga: 'https://www-ebooks7-24-com.bdigital.sena.edu.co/?il=3313',
+      link: 'https://www-ebooks7-24-com.bdigital.sena.edu.co/?il=3313',
     },
     {
       tema: 'Arquitectura de software',
       referencia:
         'Cervantes Maceda, H, Velasco-Elizondo, P, Castro Careaga, L. F. (2016). Arquitectura de software. Primera Edición. Mexico: Cengage Learning Editores S.A. ',
       tipo: 'Libro',
-      descarga: 'https://www-ebooks7-24-com.bdigital.sena.edu.co/?il=1983',
+      link: 'https://www-ebooks7-24-com.bdigital.sena.edu.co/?il=1983',
     },
   ],
   glosario: [

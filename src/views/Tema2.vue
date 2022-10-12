@@ -27,7 +27,7 @@
                   p.mb-0 La propuesta resultante, debe ser completamente comprendida y aprobada por el cliente, el cual previamente debe dar su visto bueno total y absoluto, además debe acompañar todo el proceso del ciclo de vida de desarrollo de #[i software].
                 li 
                   i.fas.fa-check
-                  p.mb-0 Nunca perder el rumbo de los objetivos versus necesidades del proyecto, como condición indispensable para logar los planes trazados.
+                  p.mb-0 Nunca perder el rumbo de los objetivos versus necesidades del proyecto, como condición indispensable para lograr los planes trazados.
                 li 
     .row.justify-content-center.align-items-stretch.my-5 
       .col-xl-12

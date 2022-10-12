@@ -62,7 +62,7 @@
           img(src="@/assets/curso/temas/tema3/img3_4.png", alt="alt")
       .col-xl-6
         .cajon.color-acento-contenido.p-4
-          p(data-aos="fade-down") Lenguaje Unificado de Modelado “UML”(#[i Unified Modeling Language]), es el más reconocido, utilizado y difundido en la actualidad en cuanto a modelado de sistemas de #[i software]. Además del manejo gráfico, sobresale también lsu estandarización mundial.
+          p(data-aos="fade-down") Lenguaje Unificado de Modelado “UML”(#[i Unified Modeling Language]), es el más reconocido, utilizado y difundido en la actualidad en cuanto a modelado de sistemas de #[i software]. Además del manejo gráfico, sobresale también su estandarización mundial.
     
     .row
       .col-xl-12         
@@ -216,7 +216,7 @@
                 .h5.mb-0 #[i Include] (Inclusión)
               .col-auto.d-none.d-lg-block
                 .bulletNumber
-            p Integrantes que, basados en su criterio, ejecutan y engrandecen el debate objeto de la reunión, preferiblemente, deben ser expertos en el tema de estudio, puesto que son los que aportan el conocimiento del tema y las mejores formas de aplicación.      
+            p Se utiliza para enaltecer o enriquecer un caso de uso con otro, compartiendo una funcionalidad común entre ellos, además, se puede utilizar para describir subfunciones de un caso de uso.
 
           .tarjeta.color-acento-contenido.p-3(x="82%" y="82%" numero="7")
             .row.justify-content-evenly.align-items-center.mb-3           
@@ -234,8 +234,8 @@
     .row.justify-content-center.align-items-center.md-5
       .col-12
         .titulo-sexto.color-acento-contenido
-          h5(data-aos="fade-down") Figura 1
-          span Diagrama de casos de uso, proceso de comer en un restaurante
+          h5(data-aos="fade-down") Primero:
+          span el siguiente diagrama muestra el proceso de comer en un restaurante. 
     
     .row.justify-content-center.align-items-center.mb-5
       .col-xl-6
@@ -246,8 +246,8 @@
     .row.justify-content-center.align-items-center.md-5
       .col-12
         .titulo-sexto.color-acento-contenido
-          h5 Figura 2
-          span Diagrama de casos de uso, proceso de realizar una compra
+          h5 Segundo:
+          span el siguiente diagrama de casos de uso, muestra el proceso de realizar una compra.
     
     .row.justify-content-center.align-items-center.mb-5
       .col-xl-6
@@ -299,7 +299,7 @@
         p(data-aos="fade-down") 
           h3(data-aos="fade-down") ¿Cómo se trabaja una sesión de levantamiento de información con #[i StoryBoard]?
         .cajon.p-4
-          p(data-aos="fade-down") La recomendación es realizar una charla informal, libre de tensiones, en la cual socializamos con el usuario, mediante la construcción de un #[i StoryBoard], todas y cada una de las funcionalidades del proyecto; algunos autores se atreven a ir más allá y utilizan el término de “Prototipo Storyboard”, basados en aspectos como: navegación, se representa el diseño lógico preliminar, tal que se muestra el orden opciones, formularios, interfases, etc. Validaciones del sistema, mostrar y validar con el usuario las validaciones a la información de entrada y hasta de salida, que se aplica en el proyecto. Aprovechamiento máximo de recursos, se plantea la optimización del tiempo de procesamiento y las personas implicadas en cada proceso.
+          p(data-aos="fade-down") La recomendación es realizar una charla informal, libre de tensiones, en la cual socializamos con el usuario, mediante la construcción de un #[i StoryBoard], todas y cada una de las funcionalidades del proyecto; algunos autores se atreven a ir más allá y utilizan el término de “Prototipo #[i Storyboard]”, basados en aspectos como: navegación, se representa el diseño lógico preliminar, tal que se muestra el orden opciones, formularios, interfases, etc. Validaciones del sistema, mostrar y validar con el usuario las validaciones a la información de entrada y hasta de salida, que se aplica en el proyecto. Aprovechamiento máximo de recursos, se plantea la optimización del tiempo de procesamiento y las personas implicadas en cada proceso.
     
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-6

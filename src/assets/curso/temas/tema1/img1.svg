@@ -28,7 +28,7 @@
       <feComposite operator="in" in2="blur-4"/>
       <feComposite in="SourceGraphic"/>
     </filter>
-    <filter id="Trazado_116857" x="0" y="328.665" width="262" height="259" filterUnits="userSpaceOnUse">
+    <filter id="Trazado_116857" x="0" y="328.665" width="262" height="271" filterUnits="userSpaceOnUse">
       <feOffset dy="3" input="SourceAlpha"/>
       <feGaussianBlur stdDeviation="3" result="blur-5"/>
       <feFlood flood-opacity="0.161"/>
@@ -68,9 +68,9 @@
     </g>
     <g id="Grupo_111894" data-name="Grupo 111894" transform="translate(-16 270)">
       <g transform="matrix(1, 0, 0, 1, 187, 453.33)" filter="url(#Trazado_116857)">
-        <path id="Trazado_116857-2" data-name="Trazado 116857" d="M10,0H234a10,10,0,0,1,10,10V231a10,10,0,0,1-10,10H10A10,10,0,0,1,0,231V10A10,10,0,0,1,10,0Z" transform="translate(9 334.67)" fill="#ffecc1"/>
+        <path id="Trazado_116857-2" data-name="Trazado 116857" d="M10,0H234a10.258,10.258,0,0,1,10,10.5v232A10.258,10.258,0,0,1,234,253H10A10.258,10.258,0,0,1,0,242.5V10.5A10.258,10.258,0,0,1,10,0Z" transform="translate(9 334.67)" fill="#ffecc1"/>
       </g>
-      <text id="Indica_que_se_establece_una_charla_aunque_no_tan_libre_puesto_que_debe_haber_un_libreto_preestablecido_lo_cual_la_hace_peculiar_asimétrica_donde_una_de_las_partes_busca_recolectar_información_y_la_otra_se_nos_presenta_como_fuente" data-name="Indica que se establece una charla, aunque no tan libre, puesto que debe haber un libreto preestablecido, lo cual la hace peculiar, asimétrica, donde una de las partes busca recolectar información y la otra se nos presenta como fuente" transform="translate(211 803)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="17">Indica que se establece una </tspan><tspan x="0" y="41">charla, aunque no tan libre, </tspan><tspan x="0" y="65">puesto que debe haber un </tspan><tspan x="0" y="89">libreto preestablecido, lo cual </tspan><tspan x="0" y="113">la hace peculiar, asimétrica, </tspan><tspan x="0" y="137">donde una de las partes </tspan><tspan x="0" y="161">busca recolectar información </tspan><tspan x="0" y="185">y la otra se nos presenta </tspan></text>
+      <text id="Indica_que_se_establece_una_charla_aunque_no_tan_libre_puesto_que_debe_haber_un_libreto_preestablecido_lo_cual_la_hace_peculiar_asimétrica_donde_una_de_las_partes_busca_recolectar_información_y_la_otra_se_nos_presenta_como_fuente." data-name="Indica que se establece una charla, aunque no tan libre, puesto que debe haber un libreto preestablecido, lo cual la hace peculiar, asimétrica, donde una de las partes busca recolectar información y la otra se nos presenta como fuente." transform="translate(211 803)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="17">Indica que se establece una </tspan><tspan x="0" y="41">charla, aunque no tan libre, </tspan><tspan x="0" y="65">puesto que debe haber un </tspan><tspan x="0" y="89">libreto preestablecido, lo cual </tspan><tspan x="0" y="113">la hace peculiar, asimétrica, </tspan><tspan x="0" y="137">donde una de las partes </tspan><tspan x="0" y="161">busca recolectar información </tspan><tspan x="0" y="185">y la otra se nos presenta </tspan><tspan x="0" y="209">como fuente.</tspan></text>
     </g>
     <g id="Grupo_111895" data-name="Grupo 111895" transform="translate(556 1197)">
       <g transform="matrix(1, 0, 0, 1, -385, -473.67)" filter="url(#Trazado_116858)">
