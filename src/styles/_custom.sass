@@ -80,20 +80,20 @@
     border: 4px solid $color-acento-botones
     border-radius: 20px
 
-.bottomCircle
-  position: relative
-  & > *
+  .bottomCircle
     position: relative
-  &::before
-    content: ""
-    position: absolute
-    top: 50%
-    left: 50%
-    transform: translate(-50%,-50%)
-    width: 155px
-    height: 155px
-    background-color: $color-sistema-texto
-    border-radius: 999px
+    & > *
+      position: relative
+    &::before
+      content: ""
+      position: absolute
+      top: 50%
+      left: 50%
+      transform: translate(-50%,-50%)
+      width: 115px
+      height: 115px
+      background-color: $color-sistema-texto
+      border-radius: 999px
 
 .crd--avatarHorizontal
   position: relative
@@ -232,3 +232,42 @@
 p span
   color: #FFB30B;
   font-weight: bold;
+
+.cajon-b:before
+  opacity: 0.29;
+
+.linea-tiempo-d.color-secundario .linea-tiempo-d__item--selected .linea-tiempo-d__item__number
+  background-color: #00DEFC;
+
+.img-infografica.color-acento-botones .img-infografica__item__dot:before
+  background-color: #FCCB60;
+
+.img-infografica.color-acento-botones .img-infografica__item__dot:before, .img-infografica.color-acento-botones .img-infografica__item__dot:after, .img-infografica.color-acento-botones .img-infografica-b__item__dot:before, .img-infografica.color-acento-botones .img-infografica-b__item__dot:after, .img-infografica-b.color-acento-botones .img-infografica__item__dot:before, .img-infografica-b.color-acento-botones .img-infografica__item__dot:after, .img-infografica-b.color-acento-botones .img-infografica-b__item__dot:before, .img-infografica-b.color-acento-botones .img-infografica-b__item__dot:after
+  background-color: #FCCB60;
+
+.cajon.color-primario
+    background-color: #B9DDFC;
+
+.slyder-a__btn--sigt, .slyder-a__btn--atrs 
+    background-color: #00DEFC;
+
+.slyder-a__bullets__item
+  background-color: #98f3ff;
+
+.slyder-a__bullets__item--active
+    background-color: #00DEFC;
+    border-color: #00DEFC;
+
+  
+.acordion__activo
+  background-color: rgb(185, 221, 252)
+.acordion__activo .acordion__header
+  background-color: rgb(185, 221, 252);
+.acordion__activo .acordion__contenido__item
+  background-color: rgb(185, 221, 252);
+.acordion__accion__btn--a
+  background-color: #084A93;
+  color: white;
+
+.lista-ol--cuadro__vineta
+    background-color: #FFB30B;

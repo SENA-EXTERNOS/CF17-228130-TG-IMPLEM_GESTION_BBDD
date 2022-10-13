@@ -61,7 +61,7 @@
         figure(data-aos="zoom-in")
           img(src="@/assets/curso/temas/tema3/img3_4.png", alt="alt")
       .col-xl-6
-        .cajon.color-acento-contenido.p-4
+        .cajon.color-acento-contenido.p-4( style="background-color: #FFECC1")
           p(data-aos="fade-down") Lenguaje Unificado de Modelado “UML”(#[i Unified Modeling Language]), es el más reconocido, utilizado y difundido en la actualidad en cuanto a modelado de sistemas de #[i software]. Además del manejo gráfico, sobresale también su estandarización mundial.
     
     .row
@@ -72,7 +72,7 @@
     
     .row.justify-content-center.align-items-center.mb-5
       .col-xl-6
-        .cajon.color-primario.p-3.p-sm-4.p-4
+        .cajon.color-primario.p-3.p-sm-4.p-4(style="background-color: #084a9326")
           p(data-aos="fade-down") Lo más sobresaliente y admirable de UML, realmente no es su contenido, sino su estandarización a un solo lenguaje unificado, que el mundo entero respeta y acata, lo cual es uno de los avances más significativos en la historia del desarrollo de #[i software].
     
     .row
@@ -277,8 +277,8 @@
                   p(data-aos="fade-down").mb-0 Para profundizar en este tema de casos de uso, lo invito a que visualice el siguiente video que explica de manera muy práctica este tema.
                 .col-sm-auto
                   a.boton.color-acento-botones(:href="obtenerLink('#')" target="_blank")
-                    span.ts Visualizar
-                    i.ts.fas.fa-file-download
+                    span( style="color: #000").ts Visualizar
+                    i.ts.fas.fa-file-download( style="color: #000")
 
     Separador
     #t_3_2.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
@@ -289,18 +289,19 @@
         figure(data-aos="zoom-in")
             img(src='@/assets/curso/temas/tema3/img3_10.png', alt='')
       .col-xl-8
+        h5 ¿Que es?
+        br
         p(data-aos="fade-down") Es una serie de dibujos secuenciales que muestran todos y cada uno de los planos de una obra audiovisual.  Es un paso fundamental que siempre debe realizarse en una preproducción. Cuando se construye un #[i storyboard] se pretende que todos los miembros puedan imaginar de la forma más cercana, cuál será el producto final.
         p(data-aos="fade-down") Aunque realmente su mayor uso es en el cine, se abre paso también en el ámbito del desarrollo de #[i software], ¿de qué forma?
         p(data-aos="fade-down") El levantamiento de requerimientos por #[i StoryBoarding] visualiza de manera gráfica, mediante imágenes, en forma secuencial cada uno de los pasos que debe ejecutar el usuario en el proceso estudiado, para conseguir los resultados. Estas imágenes se utilizan para definir las interacciones del usuario con el #[i software] con el propósito de presentar mediante dibujos didácticos las funcionalidades del programa y la forma como quedarán organizadas las opciones de navegación y demás aspectos.
         p(data-aos="fade-down") Se debe tener muy en cuenta que la técnica de #[i StoryBoard] se aplica únicamente, luego de que el analista de requerimientos tenga claras las necesidades que el usuario le planteó para de esta forma precisar los requerimientos requeridos.
     
     .row.justify-content-center.align-items-center.mb-5
-      .col-xl-8
-        p(data-aos="fade-down") 
-          h3(data-aos="fade-down") ¿Cómo se trabaja una sesión de levantamiento de información con #[i StoryBoard]?
-        .cajon.p-4
-          p(data-aos="fade-down") La recomendación es realizar una charla informal, libre de tensiones, en la cual socializamos con el usuario, mediante la construcción de un #[i StoryBoard], todas y cada una de las funcionalidades del proyecto; algunos autores se atreven a ir más allá y utilizan el término de “Prototipo #[i Storyboard]”, basados en aspectos como: navegación, se representa el diseño lógico preliminar, tal que se muestra el orden opciones, formularios, interfases, etc. Validaciones del sistema, mostrar y validar con el usuario las validaciones a la información de entrada y hasta de salida, que se aplica en el proyecto. Aprovechamiento máximo de recursos, se plantea la optimización del tiempo de procesamiento y las personas implicadas en cada proceso.
-    
+      .col-xl-12
+        div(style="background-color: #fff4da; border-left: 20px solid #ffb30b" data-aos="zoom-in").p-5.mb-5
+          h4 ¿Cómo se trabaja una sesión de levantamiento de información con #[i StoryBoard]?
+          p La recomendación es realizar una charla informal, libre de tensiones, en la cual socializamos con el usuario, mediante la construcción de un #[i StoryBoard], todas y cada una de las funcionalidades del proyecto; algunos autores se atreven a ir más allá y utilizan el término de “Prototipo #[i Storyboard]”, basados en aspectos como: navegación, se representa el diseño lógico preliminar, tal que se muestra el orden opciones, formularios, interfases, etc. Validaciones del sistema, mostrar y validar con el usuario las validaciones a la información de entrada y hasta de salida, que se aplica en el proyecto. Aprovechamiento máximo de recursos, se plantea la optimización del tiempo de procesamiento y las personas implicadas en cada proceso.
+            
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-6
         img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/tema3/img3_11.png', alt='')      
@@ -332,7 +333,7 @@
 
     .row.justify-content-center.align-items-center.mb-5
       .col-xl-10
-        .bloque-texto-g.color-secundario.p-3.p-sm-4.p-md-5
+        .bloque-texto-g.color-secundario.p-3.p-sm-4.p-md-5( style="background-color: #b9ddfc75")
           .bloque-texto-g__img(
             :style="{'background-image': `url(${require('@/assets/curso/temas/tema3/img3_12.svg')})`}"
           )
@@ -361,7 +362,7 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-xl-2
       .col-xl-10
-        .bloque-texto-g.color-secundario.p-3.p-sm-4.p-md-5
+        .bloque-texto-g.color-secundario.p-3.p-sm-4.p-md-5( style="background-color: #b9ddfc75")
           .bloque-texto-g__img(
             :style="{'background-image': `url(${require('@/assets/curso/temas/tema3/img3_12.svg')})`}"
           )
@@ -390,7 +391,7 @@
     .row.align-items-center.mb-5
       .col-xl-4
       .col-xl-8
-        .cajon.color-primario.p-3.p-sm-4.p-4
+        .cajon.color-primario.p-3.p-sm-4.p-4( style="background-color: #b9ddfc75")
           p(data-aos="fade-down") Recuerde que el componente formativo dispone de más recursos que se ubican en este, para ello diríjase al menú principal en donde encontrará entre otros, la síntesis, una actividad didáctica, material complementario.
 </template>
 

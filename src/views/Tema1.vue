@@ -129,7 +129,8 @@
         figure(data-aos="zoom-in")
           img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/tema1/img7.png', alt='')
       .col-xl-8
-        p(data-aos="fade-down") La observación directa consiste principalmente en prestar atención al proceso a sistematizar en su quehacer diario; es decir, como se realiza normalmente una actividad. No obstante, es necesario advertir que el observador no puede participar de ninguna forma en este proceso, de lo contrario, los datos que se obtengan no van a ser válidos.  Otra característica que debemos recalcar en la observación directa es su larga duración, principalmente para garantizar que los individuos que participan en el proceso se acomoden y, por consiguiente, actúen de forma natural, además, para poder obtener la información necesaria y completa del proceso observado.
+        .cajon-b.color-acento-contenido.p-3.mb-5.abajo-derecha
+          p(data-aos="fade-down") La observación directa consiste principalmente en prestar atención al proceso a sistematizar en su quehacer diario; es decir, como se realiza normalmente una actividad. No obstante, es necesario advertir que el observador no puede participar de ninguna forma en este proceso, de lo contrario, los datos que se obtengan no van a ser válidos.  Otra característica que debemos recalcar en la observación directa es su larga duración, principalmente para garantizar que los individuos que participan en el proceso se acomoden y, por consiguiente, actúen de forma natural, además, para poder obtener la información necesaria y completa del proceso observado.
     
     Separador
     .row

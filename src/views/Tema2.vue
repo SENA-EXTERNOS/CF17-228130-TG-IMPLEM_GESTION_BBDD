@@ -20,13 +20,13 @@
         .cajon.color-primario.p-3.p-sm-4          
               ul.lista-ul--color.mb-0
                 li 
-                  i.fas.fa-check
+                  i.fas.fa-check( style="color: #084A93")
                   p.mb-0 Cero ambigüedades tal que todos los integrantes del equipo sepan a ciencia cierta qué se necesita hacer.
                 li 
-                  i.fas.fa-check
+                  i.fas.fa-check( style="color: #084A93")
                   p.mb-0 La propuesta resultante, debe ser completamente comprendida y aprobada por el cliente, el cual previamente debe dar su visto bueno total y absoluto, además debe acompañar todo el proceso del ciclo de vida de desarrollo de #[i software].
                 li 
-                  i.fas.fa-check
+                  i.fas.fa-check( style="color: #084A93")
                   p.mb-0 Nunca perder el rumbo de los objetivos versus necesidades del proyecto, como condición indispensable para lograr los planes trazados.
                 li 
     .row.justify-content-center.align-items-stretch.my-5 
