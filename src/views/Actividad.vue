@@ -21,7 +21,7 @@
                       .col.mb-3.mb-sm-0                 
                         p(data-aos="fade-down").mb-0 Selección multiple
                       .col-sm-auto
-                        a.boton.boton--b(:href="obtenerLink('/actividades/actividad.html')" target="_blank")
+                        a.boton.boton--b(:href="obtenerLink('/actividades/index.html')" target="_blank")
                           span( style="color: #000").ts Realizar
                           i.fas.fa-puzzle-piece( style="color: #000")
                 
