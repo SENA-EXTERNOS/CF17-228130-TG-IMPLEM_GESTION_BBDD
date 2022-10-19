@@ -30,7 +30,7 @@
       p(data-aos="fade-down").mb-5 Se presentan a continuación #[i tips] a tener en cuenta al momento de realizar la entrevista.
     TabsA.color-acento-botones
       .tarjeta.color-acento-botones--borde.p-4(titulo="Preparar el cuestionario")
-        h4 Preparar el cuestionario
+        h4 
         .row          
           .col-xl-8
             p(
@@ -42,7 +42,7 @@
 
 
       .tarjeta.color-acento-botones--borde.p-4(titulo="Decidir el lugar de la entrevista")
-        h4 Decidir el lugar de la entrevista
+        h4 
         .row          
           .col-xl-8
             p(
