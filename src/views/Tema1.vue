@@ -114,7 +114,7 @@
         .bloque-izquierda.mb-5(data-aos="zoom-in")
           .bloque-texto-g.color-secundario.p-3.p-sm-4.p-md-5( style="background-color: #FEE3A8")
             .bloque-texto-g__img.d-flex.align-items-center( style="background-color: #B9DDFC").p-4
-              img(src='@/assets/curso/temas/tema1/img6.svg', alt='' style='width: 427px').m-auto
+              img(src='@/assets/curso/temas/tema1/img6.svg', alt='' style='width: 55%').m-auto
             .bloque-texto-g__texto--border.p-2.d-inline-block
               .bloque-texto-g__texto.p-4
                 p.mb-0 De acuerdo con el portal web HubSpot (2022), “una encuesta es un método de investigación que recopila información, datos y comentarios por medio de una serie de preguntas específicas. La mayoría de las encuestas se realizan con la intención de hacer suposiciones sobre una población, grupo referencial o muestra representativa”.
