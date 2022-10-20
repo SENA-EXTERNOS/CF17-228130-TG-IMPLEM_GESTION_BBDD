@@ -64,33 +64,25 @@
               img(src='@/assets/curso/temas/tema1/img2.png', alt='')
 
     .row.mb-4.mb-md5.my-5(data-aos="fade down") ¿Cuáles son los tipos de preguntas que podemos utilizar para una entrevista?    
-    
-    .container.tarjeta.tarjeta--blanca.p-4.p-md-5
+        
     .bg_img_01
       .row.justify-content-center.mb-5
         .col-sm-6.col-lg-5.mb-4.mb-lg-0
-          .tarjeta--boton.color-primario.p-4
-            .row.justify-content-center.mb-3
-              .col-4
-                .bottomCircle.mb-3
-                  figure(data-aos="zoom-in")
-                    img(src='@/assets/curso/temas/tema1/img3.png', alt='').img4.m-auto
-
-            h3.text-center Abiertas
-            p.text-small Son las que requieren de una mayor descripción y/o explicación; es decir, las que, para dar una respuesta, demandan mayor oratoria. Esto hace que sean sumamente eficaces y efectivas, más completas y de mayor utilidad, incluso, sirven de punto de partida para una nueva pregunta y, por ende, fluye la conversación con el entrevistado.
+          .crd.crd--grayGrad
+            .bottomCircle.mb-3
+              figure(data-aos="zoom-in")
+                img(src='@/assets/curso/temas/tema1/img3.png', alt='').mb-5.img4.m-auto( style="width:20%")
+            h4.text-center Abiertas
+            p Son las que requieren de una mayor descripción y/o explicación; es decir, las que, para dar una respuesta, demandan mayor oratoria. Esto hace que sean sumamente eficaces y efectivas, más completas y de mayor utilidad, incluso, sirven de punto de partida para una nueva pregunta y, por ende, fluye la conversación con el entrevistado.
 
         .col-sm-6.col-lg-5.mb-4.mb-lg-0
-          .tarjeta--boton.color-primario.p-4
-            .row.justify-content-center.mb-3
-              .col-4
-                .bottomCircle.mb-3
-                  figure(data-aos="zoom-in")
-                    img(src='@/assets/curso/temas/tema1/img3.png', alt='').img4.m-auto
-
-            h3.text-center Cerradas
-            p.text-small Son las que limitan las respuestas del entrevistado, son breves, basta un simple sí o no. Sin embargo, pueden ser para proporcionar un dato específico, pero limitando su respuesta, por ejemplo, la clásica pregunta para seleccionar una opción dentro de unas posibilidades. Este tipo de preguntas son más utilizadas en las encuestas.
-    .container.tarjeta.tarjeta--blanca.p-4.p-md-5
-
+          .crd.crd--grayGrad
+            .bottomCircle.mb-3
+              figure
+                img(src='@/assets/curso/temas/tema1/img3.png', alt='').mb-5.img4.m-auto( style="width:20%")
+            h4.text-center Cerradas
+            p Son las que limitan las respuestas del entrevistado, son breves, basta un simple sí o no. Sin embargo, pueden ser para proporcionar un dato específico, pero limitando su respuesta, por ejemplo, la clásica pregunta para seleccionar una opción dentro de unas posibilidades. Este tipo de preguntas son más utilizadas en las encuestas.
+  
     .row
       .col-xl-12
         p(data-aos="fade-down") 
