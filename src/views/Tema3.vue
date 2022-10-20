@@ -157,61 +157,61 @@
         ImagenInfografica.color-acento-botones.mb-5
           template(v-slot:imagen)
             figure
-              img(src='@/assets/curso/temas/tema3/img3_6.png', alt='')
+              img(src='@/assets/curso/temas/tema3/img3_6.png', alt='Diagrama de casos de uso')
 
 
-          .tarjeta.color-acento-contenido.p-3(x="25%" y="25%" numero="1")
+          .tarjeta.color-acento-contenido.p-3(x="25%" y="25%" numero="1")( style="background-color: #FFECC1")
             .row.justify-content-evenly.align-items-center.mb-3           
               .col-9     
-                .h5.mb-0 Actor
+                .h5.mb-0
               .col-auto.d-none.d-lg-block
                 .bulletNumber
             p Corresponde a cualquier entidad que haga parte del sistema como una persona, una empresa u organización e incluso, otro sistema externo.
 
-          .tarjeta.color-acento-contenido.p-3(x="28%" y="60%" numero="2")
+          .tarjeta.color-acento-contenido.p-3(x="28%" y="60%" numero="2")( style="background-color: #FFECC1")
             .row.justify-content-evenly.align-items-center.mb-3           
               .col-9     
-                .h5.mb-0 Caso de uso
+                .h5.mb-0
               .col-auto.d-none.d-lg-block
                 .bulletNumber
             p Corresponde a un artefacto que define una serie de acciones en forma secuencial y muy ordenada, que desemboca en un resultado medible. Los casos se centran en representar requisitos funcionales en lo que se refiere al contexto de procesos empresariales y, por consiguiente, del sistema.
 
-          .tarjeta.color-acento-contenido.p-3(x="28%" y="83%" numero="3")
+          .tarjeta.color-acento-contenido.p-3(x="28%" y="83%" numero="3")( style="background-color: #FFECC1")
             .row.justify-content-evenly.align-items-center.mb-3           
               .col-9     
-                .h5.mb-0 Límite del sistema
+                .h5.mb-0
               .col-auto.d-none.d-lg-block
                 .bulletNumber
             p Corresponde a definir, clara y concisamente, lo considerado externo o interno a nuestro sistema.
 
-          .tarjeta.color-acento-contenido.p-3(x="90%" y="25%" numero="4")
+          .tarjeta.color-acento-contenido.p-3(x="90%" y="25%" numero="4")( style="background-color: #FFECC1")
             .row.justify-content-evenly.align-items-center.mb-3           
               .col-9     
-                .h5.mb-0 Asociación de Comunicación
+                .h5.mb-0
               .col-auto.d-none.d-lg-block
                 .bulletNumber
             p Corresponde a la relación entre un actor y un caso de uso. Generalmente no se le asigna ningún nombre.                    
           
-          .tarjeta.color-acento-contenido.p-3(x="76%" y="50%" numero="5")
+          .tarjeta.color-acento-contenido.p-3(x="76%" y="50%" numero="5")( style="background-color: #FFECC1")
             .row.justify-content-evenly.align-items-center.mb-3           
               .col-9     
-                .h5.mb-0 #[i Extend] (Extensión)
+                .h5.mb-0
               .col-auto.d-none.d-lg-block
                 .bulletNumber
             p Se utiliza para modelar una parte que realmente es opcional dentro del sistema, o, dicho de otra forma, es subflujo que solo se da o ejecuta bajo determinadas condiciones.
 
-          .tarjeta.color-acento-contenido.p-3(x="76%" y="66%" numero="6")
+          .tarjeta.color-acento-contenido.p-3(x="76%" y="66%" numero="6")( style="background-color: #FFECC1")
             .row.justify-content-evenly.align-items-center.mb-3           
               .col-9     
-                .h5.mb-0 #[i Include] (Inclusión)
+                .h5.mb-0
               .col-auto.d-none.d-lg-block
                 .bulletNumber
             p Se utiliza para enaltecer o enriquecer un caso de uso con otro, compartiendo una funcionalidad común entre ellos, además, se puede utilizar para describir subfunciones de un caso de uso.
 
-          .tarjeta.color-acento-contenido.p-3(x="82%" y="82%" numero="7")
+          .tarjeta.color-acento-contenido.p-3(x="82%" y="82%" numero="7")( style="background-color: #FFECC1")
             .row.justify-content-evenly.align-items-center.mb-3           
               .col-9     
-                .h5.mb-0 Generalización
+                .h5.mb-0
               .col-auto.d-none.d-lg-block
                 .bulletNumber
             p Se utiliza cuando tenemos un “super” caso de uso y otro, que para este caso es un subcaso, hereda las características del comportamiento de su antecesor. Puede ocurrir que el “super” caso, padre en este caso, no sea más que una especialización de su hijo o subcaso.
