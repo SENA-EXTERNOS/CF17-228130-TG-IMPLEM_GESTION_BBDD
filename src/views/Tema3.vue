@@ -146,7 +146,7 @@
     .row
       .col-xl-12
         p(data-aos="fade-down") 
-          h3(data-aos="fade-down") Diagrama de Casos de Uso
+          h3(data-aos="fade-down") Diagrama de casos de uso
 
     .row.justify-content-center.align-items-center.mb-5
       .col-xl-12
