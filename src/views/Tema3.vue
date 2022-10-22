@@ -266,7 +266,7 @@
                   h3 Llamado a la acción
                   p(data-aos="fade-down").mb-0 Para profundizar en este tema de casos de uso, lo invito a que visualice el siguiente video que explica de manera muy práctica este tema.
                 .col-sm-auto
-                  a.boton.color-acento-botones(:href="obtenerLink('https://youtu.be/FTMZs5mIFCo')" target="_blank")
+                  a.boton.color-acento-botones(:href="'https://youtu.be/FTMZs5mIFCo'" target="_blank")
                     span( style="color: #000").ts Visualizar
                     i.ts.fas.fa-file-download( style="color: #000")
 
