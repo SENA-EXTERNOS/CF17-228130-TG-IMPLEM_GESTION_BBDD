@@ -50,9 +50,9 @@
 
           p(numero="2" titulo="Obtención / Extracción") Mediante la utilización de las herramientas de levantamiento de información antes estudiadas, se recolecta de forma organizada la información de los requisitos del proyecto.
 
-          p(numero="3" titulo="Elaboración/ Modelado") Acto seguido, se debe analizar la información levantada y crear los modelos necesarios para darle la forma adecuada al proyecto. Estos modelos son los insumos que se requieren para el diseño de sistemas y para la creación de todas las especificaciones de dicho #[i software].
+          p(numero="3" titulo="Elaboración / Modelado") Acto seguido, se debe analizar la información levantada y crear los modelos necesarios para darle la forma adecuada al proyecto. Estos modelos son los insumos que se requieren para el diseño de sistemas y para la creación de todas las especificaciones de dicho #[i software].
 
-          p(numero="4" titulo="Negoaciación") Se continúa con una representación del #[i software], previa sustentación de esta al cliente, de tal forma que se llegue a un acuerdo que permita, modificar, priorizar e incluso eliminar aspectos.
+          p(numero="4" titulo="Negociación") Se continúa con una representación del #[i software], previa sustentación de esta al cliente, de tal forma que se llegue a un acuerdo que permita, modificar, priorizar e incluso eliminar aspectos.
 
           p(numero="5" titulo="Especificación") Este es el producto final de la ingeniería de #[i software]; es decir, la base fundamental o materia prima para todas las actividades de su desarrollo, previa validación con los actores del proceso.
 

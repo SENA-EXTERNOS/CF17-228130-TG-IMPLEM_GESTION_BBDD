@@ -3,7 +3,7 @@ export default {
     componenteFormativo: 'Recolección de información',
     descripcionCurso:
       'El desarrollo de <em>software</em> tiene como base la recopilación de datos, la cual le permite a los encargados, previo proceso de responder preguntas relevantes por parte de los interesados, mostrar claramente la forma de llevar procesos para poder evaluar y mostrar resultados e incluso, anticipar las posibles tendencias y/o mejoras futuras a las soluciones dadas.',
-    imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),
+    imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.svg'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
       {
@@ -215,7 +215,7 @@ export default {
         'funciones que un individuo desempeña en un proceso, solución, proyecto, situación, etc.',
     },
     {
-      termino: 'Stakeholders',
+      termino: '<em>Stakeholders</em>',
       significado:
         'se trata del participante, integrante, parte interesada, puede ser un individuo, una empresa u organización, que tiene cualquier tipo de participación directa, de forma interna o externa en un proceso que estudiamos y pretendemos sistematizar.',
     },

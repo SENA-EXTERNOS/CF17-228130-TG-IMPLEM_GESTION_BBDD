@@ -254,21 +254,13 @@
       .col-xl-12
         p(data-aos="fade-down") Existe mucho #[i software] disponible en la web para trabajar los modelos de UML, uno de los más utilizados es StartUML, que es de MKLab, aunque estuvo un tiempo descontinuado, actualmente es uno de los más utilizados. Este #[i software] es compatible con casi todos los diagramas especificados en UML 2.0, aunque es licenciado, tiene una versión gratuita que permite trabajar en el mundo educativo.
 
-    .row.justify-content-center.align-items-center.mb-5
-      .col-xl-10
-        .tarjeta.color-primario.bg1.p-3.mb-5(data-aos="flip-down")
-          .row.justify-content-around.align-items-center
-            .col-3.col-sm-2.col-lg-1
-              img(src="@/assets/curso/temas/tema3/img3_9.svg")
-            .col
-              .row.justify-content-between.align-items-center
-                .col.mb-3.mb-sm-0
-                  h3 Llamado a la acción
-                  p(data-aos="fade-down").mb-0 Para profundizar en este tema de casos de uso, lo invito a que visualice el siguiente video que explica de manera muy práctica este tema.
-                .col-sm-auto
-                  a.boton.color-acento-botones(:href="'https://youtu.be/FTMZs5mIFCo'" target="_blank")
-                    span( style="color: #000").ts Visualizar
-                    i.ts.fas.fa-file-download( style="color: #000")
+    .row.justify-content-between.align-items-center
+      .col.mb-5.mb-sm-0                  
+        p(data-aos="fade-down").mb-0 Para profundizar en este tema de casos de uso, lo invito a que visualice el siguiente video que explica de manera muy práctica este tema.            
+    br
+    figure.mb-5
+      .video
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/FTMZs5mIFCo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
     Separador
     #t_3_2.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
