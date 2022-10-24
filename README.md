@@ -2,7 +2,7 @@
 
 ## **Enlace GitHubPages**
 
-[https://ecored-sena.github.io/ECORED_TEMPLATE_REPO/](https://sena-externos.github.io/CF17-228130-TG-IMPLEM_GESTION_BBDD/#/)
+[https://sena-externos.github.io/CF17-228130-TG-IMPLEM_GESTION_BBDD/#/](https://sena-externos.github.io/CF17-228130-TG-IMPLEM_GESTION_BBDD/#/)
 
 #
 
