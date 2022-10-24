@@ -10,7 +10,7 @@
             img(src="@/assets/curso/temas/ad.svg", alt="")
       .col-12.col-md-8.col-lg-9
         .titulo-segundo
-          h2 Actividad interactiva didáctica
+          h2 Recolección de información
         p.mb-4 El objetivo principal de la presente actividad es verificar. los saberes más importantes del material correspondiente a la temática tratada; por ello, responda cada una de las preguntas de acuerdo a sus conocimientos adquiridos:
           .row.justify-content-center.align-items-center.mb-5
             .col-xl-12
