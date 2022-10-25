@@ -30,8 +30,8 @@
       p(data-aos="fade-down").mb-5 Se presentan a continuación #[i tips] a tener en cuenta al momento de realizar la entrevista.
     TabsA.color-acento-botones
       .tarjeta.color-acento-botones--borde.p-4(titulo="Preparar el cuestionario")
-        h4 
-        .row          
+        h4 Preparar el cuestionario
+        .row.align-items-center          
           .col-xl-8
             p(
             :style="{'background-color': '#B9DDFC'}"
@@ -42,8 +42,8 @@
 
 
       .tarjeta.color-acento-botones--borde.p-4(titulo="Decidir el lugar de la entrevista")
-        h4 
-        .row          
+        h4 Decidir el lugar de la entrevista
+        .row.align-items-center        
           .col-xl-8
             p(
             :style="{'background-color': '#B9DDFC'}"
@@ -54,7 +54,7 @@
       
       .tarjeta.color-acento-botones--borde.p-4(titulo="Hacer sentir cómodo y con confianza al entrevistado")
         h4 Hacer sentir cómodo y con confianza al entrevistado
-        .row
+        .row.align-items-center
           .col-xl-8
             p(
             :style="{'background-color': '#B9DDFC'}"
