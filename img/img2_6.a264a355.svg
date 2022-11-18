@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="715" height="403.225" viewBox="0 0 715 403.225">
+  <g id="Grupo_112216" data-name="Grupo 112216" transform="translate(4244.367 7802.913)">
+    <rect id="Rectángulo_40620" data-name="Rectángulo 40620" width="715" height="402" rx="23" transform="translate(-4244.367 -7802.913)" fill="#fff"/>
+    <g id="Grupo_111181" data-name="Grupo 111181" transform="translate(-4901.034 -14512.913)">
+      <g id="Grupo_111166" data-name="Grupo 111166" transform="translate(580 1744)">
+        <rect id="Rectángulo_40611" data-name="Rectángulo 40611" width="226" height="35" rx="5" transform="translate(480.667 5007)" fill="#cce3f2"/>
+        <text id="Discusiones_y_planificación" data-name="Discusiones y planificación" transform="translate(495.667 5030)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">Discusiones y planificación</tspan></text>
+      </g>
+      <g id="Grupo_111169" data-name="Grupo 111169" transform="translate(661 1877)">
+        <rect id="Rectángulo_40611-2" data-name="Rectángulo 40611" width="80" height="35" rx="5" transform="translate(480.667 5007)" fill="#cce3f2"/>
+        <text id="Diseño" transform="translate(495.667 5030)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">Diseño</tspan></text>
+      </g>
+      <g id="Grupo_111175" data-name="Grupo 111175" transform="translate(573 2038)">
+        <rect id="Rectángulo_40611-3" data-name="Rectángulo 40611" width="155" height="35" rx="5" transform="translate(480.667 5007)" fill="#cce3f2"/>
+        <text id="Código_y_pruebas" data-name="Código y pruebas" transform="translate(495.667 5030)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">Código y pruebas</tspan></text>
+      </g>
+      <g id="Grupo_111176" data-name="Grupo 111176" transform="translate(261 2003)">
+        <rect id="Rectángulo_40611-4" data-name="Rectángulo 40611" width="146" height="35" rx="5" transform="translate(480.667 5007)" fill="#cce3f2"/>
+        <text id="Implementación" transform="translate(495.667 5030)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">Implementación</tspan></text>
+      </g>
+      <g id="Grupo_111177" data-name="Grupo 111177" transform="translate(266 1799)">
+        <rect id="Rectángulo_40611-5" data-name="Rectángulo 40611" width="122" height="35" rx="5" transform="translate(480.667 5007)" fill="#cce3f2"/>
+        <text id="Comentarios" transform="translate(495.667 5030)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">Comentarios</tspan></text>
+      </g>
+      <g id="Grupo_111174" data-name="Grupo 111174" transform="matrix(0.914, 0.407, -0.407, 0.914, 139.92, 4865.581)">
+        <path id="Trazado_116047" data-name="Trazado 116047" d="M1507.531,1538.917a104.519,104.519,0,0,0,5.9,34.733l-31.151-13.437-15.692,25.357a153.249,153.249,0,0,1,35.495-152.731l29.556,1.74,3,34A104.44,104.44,0,0,0,1507.531,1538.917Z" transform="translate(0 -17.788)" fill="#97afc8" stroke="#fff" stroke-miterlimit="10" stroke-width="4"/>
+        <path id="Trazado_116048" data-name="Trazado 116048" d="M1599,1717.87l19.984,22.283c-1.3.036-2.6.051-3.894.051a153.073,153.073,0,0,1-145.756-106.346l15.691-25.357,31.151,13.437a104.85,104.85,0,0,0,98.913,70.075q2.763,0,5.5-.145Z" transform="translate(-2.746 -66.074)" fill="#00b1c9" stroke="#fff" stroke-miterlimit="10" stroke-width="4"/>
+        <path id="Trazado_116049" data-name="Trazado 116049" d="M1810.148,1636.225a153.06,153.06,0,0,1-142.014,106.781l-19.984-22.283,21.587-26a104.871,104.871,0,0,0,95.3-75.84l17.555,28.939Z" transform="translate(-51.901 -68.927)" fill="#084a93" stroke="#fff" stroke-miterlimit="10" stroke-width="4"/>
+        <path id="Trazado_116050" data-name="Trazado 116050" d="M1848.074,1534.857a152.946,152.946,0,0,1-7.092,46.168l-27.554,11.595-17.555-28.939a105,105,0,0,0-35.552-110.856l33.7-5.1-.1-29.65A152.645,152.645,0,0,1,1848.074,1534.857Z" transform="translate(-82.734 -13.728)" fill="#b9ddfc" stroke="#fff" stroke-miterlimit="10" stroke-width="4"/>
+        <path id="Trazado_116051" data-name="Trazado 116051" d="M1727.484,1433.992l-33.7,5.1a104.826,104.826,0,0,0-142.95,11.7l-3-34-29.556-1.74a153,153,0,0,1,209.1-10.71Z" transform="translate(-16.202)" fill="#00defc" stroke="#fff" stroke-miterlimit="10" stroke-width="4"/>
+      </g>
+    </g>
+    <text id="Metodologías_ágiles_" data-name="Metodologías
+ágiles " transform="translate(-3905.367 -7604.913)" fill="#12263f" font-size="24" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-73.916" y="0">Metodologías</tspan><tspan x="-35.291" y="24">ágiles </tspan></text>
+  </g>
+</svg>

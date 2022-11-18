@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="715" height="402" viewBox="0 0 715 402">
+  <g id="Grupo_112212" data-name="Grupo 112212" transform="translate(-649.667 -1983.087)">
+    <text id="Cascada_" data-name="Cascada
+" transform="translate(862 2163.086)" fill="#fff" font-size="18" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="0" y="19">Cascada</tspan></text>
+    <rect id="Rectángulo_40612" data-name="Rectángulo 40612" width="715" height="402" rx="23" transform="translate(649.667 1983.087)" fill="#fff"/>
+    <path id="Trazado_116032" data-name="Trazado 116032" d="M5,0H129a5,5,0,0,1,5,5V38a5,5,0,0,1-5,5H5a5,5,0,0,1-5-5V5A5,5,0,0,1,5,0Z" transform="translate(1028.667 2220.087)" fill="#75e3d9"/>
+    <text id="Implantación" transform="translate(1048.667 2247.087)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">Implantación</tspan></text>
+    <rect id="Rectángulo_40611" data-name="Rectángulo 40611" width="149" height="43" rx="5" transform="translate(1138.667 2278.087)" fill="#00b1c9"/>
+    <text id="Mantenimiento" transform="translate(1158.667 2305.087)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">Mantenimiento</tspan></text>
+    <path id="Unión_23" data-name="Unión 23" d="M6531.666,11700h0v0Z" transform="translate(-5628.5 -9631.414)" fill="rgba(0,0,0,0)" stroke="#707070" stroke-linejoin="round" stroke-width="1.5"/>
+    <path id="Polígono_22" data-name="Polígono 22" d="M4.5,0,9,7H0Z" transform="translate(907.667 2102.087) rotate(180)" fill="#636363"/>
+    <path id="Unión_23-2" data-name="Unión 23" d="M6531.666,11700h0v0Z" transform="translate(-5519.667 -9573.414)" fill="rgba(0,0,0,0)" stroke="#707070" stroke-linejoin="round" stroke-width="1.5"/>
+    <path id="Polígono_22-2" data-name="Polígono 22" d="M4.5,0,9,7H0Z" transform="translate(1016.499 2160.086) rotate(180)" fill="#636363"/>
+    <path id="Unión_23-3" data-name="Unión 23" d="M6531.666,11700h0v0Z" transform="translate(-5433.417 -9515.414)" fill="rgba(0,0,0,0)" stroke="#707070" stroke-linejoin="round" stroke-width="1.5"/>
+    <path id="Polígono_22-3" data-name="Polígono 22" d="M4.5,0,9,7H0Z" transform="translate(1102.75 2218.087) rotate(180)" fill="#636363"/>
+    <path id="Unión_23-4" data-name="Unión 23" d="M6531.666,11700h0v0Z" transform="translate(-5317.417 -9458.414)" fill="rgba(0,0,0,0)" stroke="#707070" stroke-linejoin="round" stroke-width="1.5"/>
+    <path id="Polígono_22-4" data-name="Polígono 22" d="M4.5,0,9,7H0Z" transform="translate(1218.75 2275.086) rotate(180)" fill="#636363"/>
+    <rect id="Rectángulo_40611-2" data-name="Rectángulo 40611" width="116" height="43" rx="5" transform="translate(726.667 2047.087)" fill="#00defc"/>
+    <text id="Requisitos" transform="translate(746.667 2074.087)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">Requisitos</tspan></text>
+    <path id="Trazado_116030" data-name="Trazado 116030" d="M5,0H217a5,5,0,0,1,5,5V38a5,5,0,0,1-5,5H5a5,5,0,0,1-5-5V5A5,5,0,0,1,5,0Z" transform="translate(762.667 2105.087)" fill="#b9ddfc"/>
+    <text id="Diseño_e_implementación" data-name="Diseño e implementación" transform="translate(782.667 2132.087)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">Diseño e implementación</tspan></text>
+    <path id="Trazado_116031" data-name="Trazado 116031" d="M5,0H95a5,5,0,0,1,5,5V38a5,5,0,0,1-5,5H5a5,5,0,0,1-5-5V5A5,5,0,0,1,5,0Z" transform="translate(952.667 2163.087)" fill="#ffb30b"/>
+    <text id="Pruebas" transform="translate(972.667 2190.087)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">Pruebas</tspan></text>
+  </g>
+</svg>
