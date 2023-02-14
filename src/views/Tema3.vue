@@ -33,6 +33,9 @@
     #t_3_1.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
       h2.my-5 3.1 Casos de uso
 
+    p Ahora bien, la pregunta que se genera es ¿cuándo usar estas herramientas para la captura de requisitos, con el fin de facilitar dicha captura? Esta tarea no necesariamente es fácil, obtener los requerimientos puede llevarnos a enfrentar a las personas que no tienen claras las necesidades del software.
+    p.mb-5 Con el fin de ubicar al aprendiz frente a los casos de uso de estas técnicas, e importante hacer una conceptualización y revisión temporal al respecto.
+
     .row.justify-content-center.align-items-center.mb-5
       .col-xl-12
           p(data-aos="fade-down") Veamos un poco del tema, a través del siguiente esquema:
@@ -52,13 +55,12 @@
           img(src="@/assets/curso/temas/tema3/img3_4.png", alt="alt")
       .col-xl-6
         .cajon.color-acento-contenido.p-4( style="background-color: #FFECC1")
-          p(data-aos="fade-down") Lenguaje Unificado de Modelado “UML”(#[i Unified Modeling Language]), es el más reconocido, utilizado y difundido en la actualidad en cuanto a modelado de sistemas de #[i software]. Además del manejo gráfico, sobresale también su estandarización mundial.
+          p.mb-0(data-aos="fade-down") Lenguaje Unificado de Modelado “UML”(#[i Unified Modeling Language]), es el más reconocido, utilizado y difundido en la actualidad en cuanto a modelado de sistemas de #[i software]. Además del manejo gráfico, sobresale también su estandarización mundial.
     
-    .row
-      .col-xl-12         
-            p(data-aos="fade-down") Al igual que la historia de la humanidad, en el desarrollo de #[i software] se fue dando la evolución en la medida de las necesidades, de esta forma, en la década de los 90, los sistemas de información se hicieron más complejos, cada vez era más difícil construir un sistema “desde cero”, características como el mantenimiento y la reutilización de código fuente, se alejaban cada vez más de los desarrolladores, aumentando considerablemente los cronogramas y tiempos requeridos para tal fin. #[br]#[br] Posteriormente surgieron los lenguajes de programación orientados a objetos, trayendo consigo, como es apenas lógico, los primeros lenguajes de modelado orientados a objetos. En esa misma época, aparecieron las primeras publicaciones, en forma masiva, sobre análisis y diseños orientados al tema. Era el momento de la creación de un lenguaje de modelado unificado. Fue así como a inicios de esos mismos años, los métodos orientados a objetos de Grady Booch y James Rumbaugh se difundieron y utilizaron muy ampliamente. Consecuentemente, en octubre de 1994, 
-              span.text-bold( style="color: #000") #[i Rational Software Corporation] 
-              | (que desde febrero de 2003 hace parte de IBM) inició su proyecto para la creación de un lenguaje de modelado unificado. El primer paso fue acordar una estandarización de la notación (lenguaje), que lo lograron integrando el Método Booch (de Grady Booch), la técnica de modelado de objetos (OMT por sus siglas en inglés, de James Rumbaugh) y la Ingeniería de #[i software] orientada a objetos (OOSE por sus siglas en inglés de Ivar Jacobsen), complementando con otros pocos elementos de otros métodos, publicando la nueva notación bajo el nombre UML (#[i Unified Modeling Language]).
+       
+    p(data-aos="fade-down") Al igual que la historia de la humanidad, en el desarrollo de #[i software] se fue dando la evolución en la medida de las necesidades, de esta forma, en la década de los 90, los sistemas de información se hicieron más complejos, cada vez era más difícil construir un sistema “desde cero”, características como el mantenimiento y la reutilización de código fuente, se alejaban cada vez más de los desarrolladores, aumentando considerablemente los cronogramas y tiempos requeridos para tal fin. #[br]#[br] Posteriormente surgieron los lenguajes de programación orientados a objetos, trayendo consigo, como es apenas lógico, los primeros lenguajes de modelado orientados a objetos. En esa misma época, aparecieron las primeras publicaciones, en forma masiva, sobre análisis y diseños orientados al tema. Era el momento de la creación de un lenguaje de modelado unificado. Fue así como a inicios de esos mismos años, los métodos orientados a objetos de Grady Booch y James Rumbaugh se difundieron y utilizaron muy ampliamente. Consecuentemente, en octubre de 1994, 
+      span.text-bold( style="color: #000") #[i Rational Software Corporation ]  
+      | (que desde febrero de 2003 hace parte de IBM) inició su proyecto para la creación de un lenguaje de modelado unificado. El primer paso fue acordar una estandarización de la notación (lenguaje), que lo lograron integrando el Método Booch (de Grady Booch), la técnica de modelado de objetos (OMT por sus siglas en inglés, de James Rumbaugh) y la Ingeniería de #[i software] orientada a objetos (OOSE por sus siglas en inglés de Ivar Jacobsen), complementando con otros pocos elementos de otros métodos, publicando la nueva notación bajo el nombre UML (#[i Unified Modeling Language]).
     
     .row.justify-content-center.align-items-center.mb-5
       .col-xl-6
@@ -275,14 +277,14 @@
         br
         p(data-aos="fade-down") Es una serie de dibujos secuenciales que muestran todos y cada uno de los planos de una obra audiovisual.  Es un paso fundamental que siempre debe realizarse en una preproducción. Cuando se construye un #[i storyboard] se pretende que todos los miembros puedan imaginar de la forma más cercana, cuál será el producto final.
         p(data-aos="fade-down") Aunque realmente su mayor uso es en el cine, se abre paso también en el ámbito del desarrollo de #[i software], ¿de qué forma?
-        p(data-aos="fade-down") El levantamiento de requerimientos por #[i StoryBoarding] visualiza de manera gráfica, mediante imágenes, en forma secuencial cada uno de los pasos que debe ejecutar el usuario en el proceso estudiado, para conseguir los resultados. Estas imágenes se utilizan para definir las interacciones del usuario con el #[i software] con el propósito de presentar mediante dibujos didácticos las funcionalidades del programa y la forma como quedarán organizadas las opciones de navegación y demás aspectos.
-        p(data-aos="fade-down") Se debe tener muy en cuenta que la técnica de #[i StoryBoard] se aplica únicamente, luego de que el analista de requerimientos tenga claras las necesidades que el usuario le planteó para de esta forma precisar los requerimientos requeridos.
+        p(data-aos="fade-down") El levantamiento de requerimientos por #[i Storyboarding] visualiza de manera gráfica, mediante imágenes, en forma secuencial cada uno de los pasos que debe ejecutar el usuario en el proceso estudiado, para conseguir los resultados. Estas imágenes se utilizan para definir las interacciones del usuario con el #[i software] con el propósito de presentar mediante dibujos didácticos las funcionalidades del programa y la forma como quedarán organizadas las opciones de navegación y demás aspectos.
+        p(data-aos="fade-down") Se debe tener muy en cuenta que la técnica de #[i Storyboard] se aplica únicamente, luego de que el analista de requerimientos tenga claras las necesidades que el usuario le planteó para de esta forma precisar los requerimientos requeridos.
     
     .row.justify-content-center.align-items-center.mb-5
       .col-xl-12
         div(style="background-color: #fff4da; border-left: 20px solid #ffb30b" data-aos="zoom-in").p-5.mb-5
-          h4 ¿Cómo se trabaja una sesión de levantamiento de información con #[i StoryBoard]?
-          p La recomendación es realizar una charla informal, libre de tensiones, en la cual socializamos con el usuario, mediante la construcción de un #[i StoryBoard], todas y cada una de las funcionalidades del proyecto; algunos autores se atreven a ir más allá y utilizan el término de “Prototipo #[i Storyboard]”, basados en aspectos como: navegación, se representa el diseño lógico preliminar, tal que se muestra el orden opciones, formularios, interfases, etc. Validaciones del sistema, mostrar y validar con el usuario las validaciones a la información de entrada y hasta de salida, que se aplica en el proyecto. Aprovechamiento máximo de recursos, se plantea la optimización del tiempo de procesamiento y las personas implicadas en cada proceso.
+          h4 ¿Cómo se trabaja una sesión de levantamiento de información con #[i Storyboard]?
+          p La recomendación es realizar una charla informal, libre de tensiones, en la cual socializamos con el usuario, mediante la construcción de un #[i Storyboard], todas y cada una de las funcionalidades del proyecto; algunos autores se atreven a ir más allá y utilizan el término de “Prototipo #[i Storyboard]”, basados en aspectos como: navegación, se representa el diseño lógico preliminar, tal que se muestra el orden opciones, formularios, interfases, etc. Validaciones del sistema, mostrar y validar con el usuario las validaciones a la información de entrada y hasta de salida, que se aplica en el proyecto. Aprovechamiento máximo de recursos, se plantea la optimización del tiempo de procesamiento y las personas implicadas en cada proceso.
             
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-6
@@ -294,7 +296,7 @@
           li 
             .lista-ol--cuadro__vineta
               span 1
-            p.mb-0 Debes crear un guion inicial que requiere, como es apenas lógico, que exista una charla preliminar con el cliente y/o usuarios.
+            p.mb-0 Debe crear un guion inicial que requiere, como es apenas lógico, que exista una charla preliminar con el cliente y/o usuarios.
           li 
             .lista-ol--cuadro__vineta
               span 2
@@ -331,7 +333,7 @@
                     p.mb-0 #[i Shotbox]
                   li 
                     i.fas.fa-check
-                    p.mb-0 #[i Storyboard Generator]
+                    p.mb-0 #[i Storyboard Creator]
                   li 
                     i.fas.fa-check
                     p.mb-0 #[i Storyboard That]
@@ -371,7 +373,7 @@
       .col-xl-4
       .col-xl-8
         .cajon.color-primario.p-3.p-sm-4.p-4( style="background-color: #b9ddfc75")
-          p(data-aos="fade-down") Recuerde que el componente formativo dispone de más recursos que se ubican en este, para ello diríjase al menú principal en donde encontrará entre otros, la síntesis, una actividad didáctica, material complementario.
+          p(data-aos="fade-down").mb-0 Recuerde explorar los demás recursos que se encuentran disponibles en este componente formativo; para ello, diríjase al menú principal, donde encontrará la síntesis, una actividad didáctica para reforzar los conceptos estudiados, material complementario, entre otros.
 </template>
 
 <script>

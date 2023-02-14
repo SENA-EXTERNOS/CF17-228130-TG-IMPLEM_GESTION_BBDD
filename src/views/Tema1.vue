@@ -10,27 +10,23 @@
       .col-xl-12
         p(data-aos="fade-down") La base fundamental en todo proyecto informático, especialmente en el campo del desarrollo de #[i software], es la información inicial del cliente, mejor conocido como los requerimientos. Para poder acceder a dicha información, debemos recolectar los datos que se necesiten, lo cual podemos definir como el uso de distintas y diversas técnicas y herramientas que tienen disponibles analistas, desarrolladores, etc. para ser utilizadas en los sistemas de información. Específicamente en el campo del desarrollo de #[i software], las más utilizadas y que más se ajustan a nuestras necesidades son: entrevistas, encuestas, cuestionarios, observación y #[i focus gruop]. Los instrumentos mencionados se deben aplicar con el propósito de obtener la información necesaria para comenzar el proyecto.
     
-    #t_1_1.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
-      h2.my-5 1.1 Entrevistas, cuestionarios, encuestas
+    .titulo-segundo.color-acento-contenido    
+      h3(data-aos="zoom-in-left").mt-5 Entrevistas
      
-    .row
-      .col-xl-12
-        p(data-aos="fade-down") 
-          h3(data-aos="fade-down") Entrevistas
+    h3(data-aos="fade-right") 
+      i.fas.fa-square.cac.me-3
+      |Entrevistas
 
     p(data-aos="fade-down").mb-5 Como aspecto principal, es necesario explicar en qué consiste la entrevista teniendo en cuenta que a través de ella se presenta un intercambio de opiniones por medio de un diálogo entre 2 o más personas.
     
-    .row.mb-4.mb-md-5(data-aos="fade-down")
-      .bg4
-      .row.justify-content-center.align-items-center.mb-5           
-        .col-lg-10
-          img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/tema1/img1.svg', alt='')
+    .row.justify-content-center.align-items-center.mb-5(data-aos="fade-down")           
+      .col-lg-12
+        img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/tema1/1.svg', alt='')
     
     .row.mb-4.mb-md-5(data-aos="fade-down")
       p(data-aos="fade-down").mb-5 Se presentan a continuación #[i tips] a tener en cuenta al momento de realizar la entrevista.
     TabsA.color-acento-botones
       .tarjeta.color-acento-botones--borde.p-4(titulo="Preparar el cuestionario")
-        h4 Preparar el cuestionario
         .row.align-items-center          
           .col-xl-8
             p(
@@ -41,8 +37,7 @@
               img(src='@/assets/curso/temas/tema1/img2.png', alt='')
 
 
-      .tarjeta.color-acento-botones--borde.p-4(titulo="Decidir el lugar de la entrevista")
-        h4 Decidir el lugar de la entrevista
+      .tarjeta.color-acento-botones--borde.p-4(titulo="Decidir el lugar de la<br> entrevista")
         .row.align-items-center        
           .col-xl-8
             p(
@@ -52,8 +47,7 @@
             figure(data-aos="zoom-in")
               img(src='@/assets/curso/temas/tema1/img2.png', alt='')
       
-      .tarjeta.color-acento-botones--borde.p-4(titulo="Hacer sentir cómodo y con confianza al entrevistado")
-        h4 Hacer sentir cómodo y con confianza al entrevistado
+      .tarjeta.color-acento-botones--borde.p-4(titulo="Hacer sentir cómodo y<br> con confianza al entrevistado")
         .row.align-items-center
           .col-xl-8
             p(
@@ -83,12 +77,11 @@
             h4.text-center Cerradas
             p Son las que limitan las respuestas del entrevistado, son breves, basta un simple sí o no. Sin embargo, pueden ser para proporcionar un dato específico, pero limitando su respuesta, por ejemplo, la clásica pregunta para seleccionar una opción dentro de unas posibilidades. Este tipo de preguntas son más utilizadas en las encuestas.
   
-    .row
-      .col-xl-12
-        p(data-aos="fade-down") 
-          h3(data-aos="fade-down") Cuestionarios
+    h3(data-aos="fade-right") 
+      i.fas.fa-square.cac.me-3
+      |Cuestionarios
 
-      .bloque-derecha.mb-5(data-aos="zoom-in")
+      .bloque-derecha.my-5(data-aos="zoom-in")
         .bloque-texto-g.color-secundario.p-3.p-sm-4.p-md-5( style="background-color: #FEE3A8")
           .bloque-texto-g__img.d-flex.align-items-center( style="background-color: #B9DDFC").p-4
             img(src='@/assets/curso/temas/tema1/img5.svg', alt='' style='width: 427px').m-auto
@@ -96,12 +89,11 @@
             .bloque-texto-g__texto.p-4
               p.mb-0 #[span El cuestionario] es un documento compuesto por una serie de preguntas coherentes, muy bien organizadas tanto en secuencia como en estructura, que parte de una planificación específica, esperando obtener respuestas que despejen las dudas planteadas. Los cuestionarios dan la posibilidad de un análisis más detallado, determinar comportamientos, tendencias y posturas. Si bien es cierto que son utilizados en todas las áreas del saber, en los proyectos de desarrollo de #[i software], cumplen con una función sobresaliente. Aunque es innegable su ahorro de tiempo, sus respuestas cortas, los pueden hacer ver como incompletos.
 
-    .row
-      .col-xl-12
-        p(data-aos="fade-down") 
-          h3(data-aos="fade-down") Encuestas
+    h3(data-aos="fade-right") 
+      i.fas.fa-square.cac.me-3
+      |Encuestas
       
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center.my-5
       .col-xl-10
         .bloque-izquierda.mb-5(data-aos="zoom-in")
           .bloque-texto-g.color-secundario.p-3.p-sm-4.p-md-5( style="background-color: #FEE3A8")
@@ -110,12 +102,9 @@
             .bloque-texto-g__texto--border.p-2.d-inline-block
               .bloque-texto-g__texto.p-4
                 p.mb-0 De acuerdo con el portal web HubSpot (2022), “una encuesta es un método de investigación que recopila información, datos y comentarios por medio de una serie de preguntas específicas. La mayoría de las encuestas se realizan con la intención de hacer suposiciones sobre una población, grupo referencial o muestra representativa”.
-    
-    Separador
-    .row
-      .col-xl-12        
-    #t_1_2.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
-      h2.my-5 1.2 Observación directa
+
+    .titulo-segundo.color-acento-contenido    
+      h3(data-aos="zoom-in-left").mt-5 Observación directa
     .row.justify.content-center.align-items-center
       .col-xl-4
         figure(data-aos="zoom-in")
@@ -124,11 +113,8 @@
         .cajon-b.color-acento-contenido.p-3.mb-5.abajo-derecha
           p(data-aos="fade-down") La observación directa consiste principalmente en prestar atención al proceso a sistematizar en su quehacer diario; es decir, como se realiza normalmente una actividad. No obstante, es necesario advertir que el observador no puede participar de ninguna forma en este proceso, de lo contrario, los datos que se obtengan no van a ser válidos.  Otra característica que debemos recalcar en la observación directa es su larga duración, principalmente para garantizar que los individuos que participan en el proceso se acomoden y, por consiguiente, actúen de forma natural, además, para poder obtener la información necesaria y completa del proceso observado.
     
-    Separador
-    .row
-      .col-xl-12       
-    #t_1_3.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
-      h2.my-5 1.3 #[i Focus Group]
+    .titulo-segundo.color-acento-contenido    
+      h3(data-aos="zoom-in-left").mt-5 #[i Focus Group]
     
     .row.justify-content-center.align-items-center.mb-5
       .col-xl-8
@@ -137,10 +123,10 @@
             :style="{'background-image': `url(${require('@/assets/curso/temas/tema1/img8.png')})`}"
           )
           .bloque-texto-g__texto.p-4
-            p.mb-0 La definición normal de #[i Focus Group] nos dice que es un método de investigación cualitativa, en la que se reúnen una serie de participantes de una entrevista, para expresar sus opiniones acerca de un producto o servicio. Ya específicamente, en el ámbito del desarrollo de #[i software], se aplica como método muy útil que nos ayuda a estudiar propuestas teóricas a partir del juicio de personas expertas y no tan expertas que, basados en su experiencia, aceptan o niegan propuestas de proyectos.
+            p.mb-0 La definición normal de #[i Focus Group] nos dice que es un método de investigación cualitativa, en la que se reúne una serie de participantes de una entrevista, para expresar sus opiniones acerca de un producto o servicio. Ya específicamente, en el ámbito del desarrollo de #[i software], se aplica como método muy útil que nos ayuda a estudiar propuestas teóricas a partir del juicio de personas expertas y no tan expertas, basadas en su experiencia, aceptan o niegan propuestas de proyectos.
     .row
       .col-xl-12
-        p(data-aos="fade-down") El #[i focus group], al ser un grupo pequeño de participantes, se pueden presentar los siguientes roles:
+        p(data-aos="fade-down") Al estar el #[i focus group] compuesto por un pequeño grupo de participantes, se pueden presentar los siguientes roles:
     
     .row.justify-content-center.align-items-center
       .col-lg-10
@@ -156,7 +142,7 @@
                 .h5.mb-0 Moderador
               .col-auto.d-none.d-lg-block
                 .bulletNumber
-            p Integrante del grupo investigador que administra y/o coordina la reunión-discusión debe tener el suficiente tacto y cuidado para no opinar, ni mucho menos influenciar la postura de los demás participantes; además, tiene la tarea de controlar la reunión para evitar que se salga de contexto y esté centrada en los objetivos marcados.
+            p Integrante del grupo investigador que administra y/o coordina la reunión-discusión; debe tener el suficiente tacto y cuidado para no opinar, ni mucho menos influenciar la postura de los demás participantes; además, tiene la tarea de controlar la reunión, para evitar que se salga de contexto y se conserve centrada en los objetivos marcados.
 
           .tarjeta.color-acento-contenido.p-3(x="68%" y="42%" numero="2")
             .row.justify-content-evenly.align-items-center.mb-3           
@@ -196,11 +182,11 @@
                 li
                   i.fas.fa-check                                     
                   .col-12
-                    p Es importante determinar en forma clara y precisa el objetivo del grupo y edificar el planteamiento del problema, centrándose en el producto #[i software] a construir.
+                    p Es importante determinar de forma clara y precisa el objetivo del grupo y edificar el planteamiento del problema, centrándose en el producto #[i software] a construir.
                 li
                   i.fas.fa-check
                   .col-12
-                    p Construya la lista de preguntas que se van a trabajar, cerciorándose que estén completamente centradas y enfocadas en los objetivos del ítem anterior.
+                    p Realizar una lista de las preguntas que se van a trabajar, asegurando que se encuentren completamente centradas y enfocadas en los objetivos del ítem anterior.
                 li
                   i.fas.fa-check
                   .col-12
@@ -212,7 +198,7 @@
                 li
                   i.fas.fa-check
                   .col-12
-                    p Finalmente, se recomienda, tener un orden del día preestablecido, de ser posible, en forma escrita, muy bien presentado y fácil de manipular y entender.                
+                    p Finalmente, se recomienda, tener un orden del día preestablecido, de ser posible, de forma escrita, muy bien presentado y fácil de manipular y entender.                
               
 </template>
 

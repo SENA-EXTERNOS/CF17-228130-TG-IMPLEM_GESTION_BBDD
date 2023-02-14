@@ -47,26 +47,6 @@ export default {
         numero: '1',
         titulo: 'Técnicas de recolección de información',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.1',
-            titulo: 'Entrevistas, cuestionarios, encuestas',
-            hash: 't_1_1',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.2',
-            titulo: 'Observación directa',
-            hash: 't_1_2',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.3',
-            titulo: '<em>Focus group</em>',
-            hash: 't_1_3',
-          },
-        ],
       },
 
       {
@@ -75,32 +55,6 @@ export default {
         numero: '2',
         titulo: 'Ingeniería de Requisitos',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            icono: 'far fa-file-alt',
-            numero: '2.1',
-            titulo: 'Concepto',
-            hash: 't_2_1',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '2.2',
-            titulo: 'Fases',
-            hash: 't_2_2',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '2.3',
-            titulo: 'Técnicas',
-            hash: 't_2_3',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '2.4',
-            titulo: 'Elicitación',
-            hash: 't_2_4',
-          },
-        ],
       },
       {
         nombreRuta: 'tema3',
@@ -166,31 +120,30 @@ export default {
   },
   complementario: [
     {
-      tema:
-        'Técnicas de recolección de datos en entornos virtuales más usadas en la investigación cualitativa',
+      tema: 'Técnicas de recolección de información',
       referencia:
-        'Orellana López, D. (2006).  Técnicas de recolección de datos en entornos virtuales más usadas en la investigación cualitativa. Revista de Investigación Educativa, 24, 1, 205-222.',
+        'Orellana López, D. (2006).  Técnicas de recolección de datos en entornos virtuales más usadas en la investigación cualitativa. <i>Revista de Investigación Educativa</i>, 24(1), p. 205-222.',
       tipo: 'Artículo',
       link: 'https://www.redalyc.org/pdf/2833/283321886011.pdf',
     },
     {
-      tema: 'Ingeniería de software',
+      tema: 'Ingeniería de requisitos',
       referencia:
-        'Sommerville, I. (2011). Ingeniería de software. Novena Edición. México: Pearson Educación',
+        'Sommerville, I. (2011). <i>Ingeniería de software</i>. Novena Edición. Pearson Educación',
       tipo: 'Libro',
       link: 'https://www-ebooks7-24-com.bdigital.sena.edu.co/?il=3313',
     },
     {
-      tema: 'Arquitectura de software',
+      tema: 'Ingeniería de requisitos',
       referencia:
-        'Cervantes Maceda, H, Velasco-Elizondo, P, Castro Careaga, L. F. (2016). Arquitectura de software. Primera Edición. Mexico: Cengage Learning Editores S.A. ',
+        'Cervantes Maceda, H, Velasco-Elizondo, P, & Castro Careaga, L. F. (2016). <i>Arquitectura de software</i>. Cengage Learning Editores S.A. ',
       tipo: 'Libro',
       link: 'https://www-ebooks7-24-com.bdigital.sena.edu.co/?il=1983',
     },
   ],
   glosario: [
     {
-      termino: '<em>Focus Gruop</em>',
+      termino: '<em>Focus Group</em>',
       significado:
         'el grupo focal o grupo de enfoque (focus group en inglés) es una técnica cualitativa de estudio, que se basa en las opiniones o actitudes de un grupo muy específico, utilizada en desarrollo de <em>software</em>.',
     },
@@ -207,7 +160,7 @@ export default {
     {
       termino: 'Prototipo',
       significado:
-        'consiste en una representación supuesta pero concreta y muy aterrizada de una parte especifica o la totalidad de un proyecto, idea de negocio, e incluso, un producto o servicio.',
+        'consiste en una representación supuesta pero concreta y muy aterrizada de una parte específica o la totalidad de un proyecto, idea de negocio, e incluso, un producto o servicio.',
     },
     {
       termino: 'Roles',
@@ -249,9 +202,9 @@ export default {
     },
     {
       referencia:
-        'Rodríguez, E. (2005). Metodología de la investigación. Villahermosa - México: Universidad de Juárez Autónoma de Tabasco.',
+        'Rodríguez, E. (2005). <i>Metodología de la investigación</i>. Villahermosa - México: Universidad de Juárez Autónoma de Tabasco. ',
       link:
-        'https://books.google.com.pe/books?id=r4yrEW9Jhe0C&printsec=frontcover#v=onepage&q&f=false',
+        'https://www.academia.edu/37714580/Metodolog%C3%ADa_de_la_investigaci%C3%B3n_Ernesto_A_Rodr%C3%ADguez_Moguel_LIBROSVIRTUAL',
     },
   ],
   creditos: {

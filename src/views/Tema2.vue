@@ -7,13 +7,16 @@
         span 2
       h1 Ingeniería de Requisitos
 
-    #t_2_1.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
-      h2.my-5 2.1 Concepto
+    p.mb-5 Es el proceso que involucra la selección, el análisis y la verificación de las necesidades del cliente, para implementar un sistema de <i>software</i>; esta ingeniería de requisitos, nos permite tener claras las especificaciones demandadas por el <i>software</i> de forma correcta y completa, proporcionando una mejora en su comprensión, así como en la definición del programa y su complejidad.
+
+    h3(data-aos="fade-right") 
+      i.fas.fa-square.cac.me-3
+      |Concepto
   
-    .row.justify-content-center.align-items-stretch.my-5 
+    .row.justify-content-center.align-items-stretch.mb-5 
       .col-xl-12
         p(data-aos="fade-down") Antes de adentrarnos en lo que este tema conlleva, es preciso hablar un poco desde su concepción:
-        p(data-aos="fade-down") La ingeniería de requisitos se entiende como el proceso de recopilar, analizar y verificar los pedidos o necesidades del cliente para brindar una solución de #[i software], en palabras más técnicas, es una aproximación multidisciplinar que lleva al desarrollo de soluciones de sistemas informáticos eficazmente balanceados y efectivos; lo cual se materializa mediante el concurso de un conjunto de herramientas que el cliente nos permite definir con las siguientes características: 
+        p(data-aos="fade-down") La ingeniería de requisitos se entiende como el proceso de recopilar, analizar y verificar los pedidos o necesidades del cliente, para brindar una solución de <i>software</i>; en palabras más técnicas, es una aproximación multidisciplinar que lleva al desarrollo de soluciones de sistemas informáticos, eficazmente balanceados y efectivos; esto se materializa mediante el concurso de un conjunto de herramientas que el cliente nos permite definir, con las siguientes características:
     
     .row.justify-content-center.align-items-stretch.my-5           
       .col-lg-10.my-3(data-aos="fade-right")
@@ -21,20 +24,20 @@
               ul.lista-ul--color.mb-0
                 li 
                   i.fas.fa-check( style="color: #084A93")
-                  p.mb-0 Cero ambigüedades tal que todos los integrantes del equipo sepan a ciencia cierta qué se necesita hacer.
+                  p.mb-0 Cero ambigüedades, de tal manera que todos los integrantes del equipo conozcan, a ciencia cierta, qué se necesita realizar.
                 li 
                   i.fas.fa-check( style="color: #084A93")
-                  p.mb-0 La propuesta resultante, debe ser completamente comprendida y aprobada por el cliente, el cual previamente debe dar su visto bueno total y absoluto, además debe acompañar todo el proceso del ciclo de vida de desarrollo de #[i software].
+                  p.mb-0 La propuesta resultante, debe ser completamente comprendida y aprobada por el cliente quien, previamente, dará su visto bueno total y absoluto; además, debe acompañar todo el proceso del ciclo de vida de desarrollo del #[i software].
                 li 
                   i.fas.fa-check( style="color: #084A93")
-                  p.mb-0 Nunca perder el rumbo de los objetivos versus necesidades del proyecto, como condición indispensable para lograr los planes trazados.
-                li 
+                  p.mb-0 Nunca perder el rumbo de los objetivos frente a las necesidades del proyecto, como condición indispensable para lograr los planes trazados.
+
     .row.justify-content-center.align-items-stretch.my-5 
       .col-xl-12
-        p(data-aos="fade-down") Estos propósitos se pueden conseguir, gracias a que la ingeniería de requisitos se centra en clarificar los requerimientos al inicio del proyecto, continuando incluso con el diseño para posteriormente validar y verificar el problema completo como un todo.
-    Separador
-    #t_2_2.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
-      h2.my-5 2.2 Fases
+        p(data-aos="fade-down") Estos propósitos se pueden conseguir, gracias a que la ingeniería de requisitos se centra en clarificar los requerimientos al inicio del proyecto, continuando incluso con el diseño para, posteriormente validar y verificar el problema completo, como un todo.
+
+    .titulo-segundo.color-acento-contenido    
+      h3(data-aos="zoom-in-left").mt-5 Fases
     
     .row
       .col-xl-12
@@ -56,9 +59,8 @@
 
           p(numero="5" titulo="Especificación") Este es el producto final de la ingeniería de #[i software]; es decir, la base fundamental o materia prima para todas las actividades de su desarrollo, previa validación con los actores del proceso.
 
-    Separador
-    #t_2_3.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
-      h2.my-5 2.3 Técnicas
+    .titulo-segundo.color-acento-contenido    
+      h3(data-aos="zoom-in-left").mt-5 Técnicas
 
     .row
       .col-xl-12
@@ -106,19 +108,18 @@
             figure(data-aos="zoom-in")
               img(src='@/assets/curso/temas/tema2/img2_6.svg', alt='Texto que describa la imagen')
         
-    Separador
-    #t_2_4.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
-      h2.my-5 2.4 Elicitación
+    .titulo-segundo.color-acento-contenido    
+      h3(data-aos="zoom-in-left").mt-5 Elicitación
 
     .row.justify-content-center.align-items-center.my-lg-4                
-      .col-md-3
+      .col-md-6
         figure(data-aos="zoom-in")
-          img(src='@/assets/curso/temas/tema2/img2_7.svg', alt='Texto que describa la imagen')
-      .col-md-8.mb-4.mb-md-0
-        p En el idioma Español cotidiano, #[b elicitar] se refiere al paso de información, en forma clara y sin interrupciones de un ser humano a otro; aunque es un término muy ligado a la psicología, en la ingeniería de requisitos se utiliza este vocablo para hacer énfasis en la necesidad de conocer en forma amplia y suficiente el sistema actual, sus ventajas, desventajas, además de potenciar la comunicación con el cliente en busca de identificar realmente sus necesidades de todo tipo y brindarle una solución óptima.
+          img(src='@/assets/curso/temas/tema2/1.svg', alt='Texto que describa la imagen')
+      .col-md-6.mb-4.mb-md-0
+        p En el idioma español cotidiano,<b> elicitar</b> se refiere al paso de información, de un ser humano a otro, de forma clara y sin interrupciones; aunque es un término muy ligado a la psicología, en la ingeniería de requisitos se utiliza este vocablo para hacer énfasis en la necesidad de conocer de manera amplia y suficiente el sistema actual, sus ventajas, desventajas, además de potenciar la comunicación con el cliente en busca de identificar realmente sus necesidades de todo tipo y brindarle una solución óptima.  
         br
         .cajon.color-acento-contenido.p-3.p-sm-4
-          p Esta imagen deja muy claro que la elicitación busca el conocimiento profundo y concreto del dominio del problema, la interacción clara, fluida y permanente con el cliente,  de tal forma que la propuesta formulada sea de su total comprensión y aceptación.          
+          p.mb-0 La elicitación busca el conocimiento profundo y concreto con respecto al dominio de un problema, por lo que se requiere de una interacción clara, fluida y permanente con el cliente, o con las personas interesadas, lo que permite que la propuesta formulada tenga total comprensión y aceptación, dando de esta forma, cuerpo a la ingeniería de requisitos y a la implementación de soluciones a nivel de <i>software.</i>       
 
 </template>
 

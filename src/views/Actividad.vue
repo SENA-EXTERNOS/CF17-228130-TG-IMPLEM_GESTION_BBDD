@@ -11,7 +11,7 @@
       .col-12.col-md-8.col-lg-9
         .titulo-segundo
           h2 Recolección de información
-        p.mb-4 El objetivo principal de la presente actividad es verificar. los saberes más importantes del material correspondiente a la temática tratada; por ello, responda cada una de las preguntas de acuerdo a sus conocimientos adquiridos:
+        p.mb-4 Esta actividad se plantea con el objetivo de evaluar la aprehensión de los conceptos expuestos a lo largo del componente formativo. Leer atentamente las siguientes afirmaciones y determinar la respuesta que le corresponde.
           .row.justify-content-center.align-items-center.mb-5
             .col-xl-12
               .tarjeta.color-primario.bg1.p-3.mb-5(data-aos="flip-down")
