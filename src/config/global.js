@@ -143,6 +143,26 @@ export default {
   ],
   glosario: [
     {
+      termino: '<em>Elicitación</em>',
+      significado:
+        'se refiere al paso de información, en forma clara y sin interrupciones de un ser humano a otro.',
+    },
+    {
+      termino: '<em>Extend</em>',
+      significado:
+        'se utiliza para modelar una parte que realmente es opcional dentro del sistema.',
+    },
+    {
+      termino: '<em>Include</em>',
+      significado:
+        'se utiliza para enaltecer o enriquecer un caso de uso con otro caso de uso.',
+    },
+    {
+      termino: '<em>Storyboard</em>',
+      significado:
+        'es una serie de dibujos secuenciales, que, muestran todos y cada uno de los planos de una obra audiovisual.',
+    },
+    {
       termino: '<em>Focus Group</em>',
       significado:
         'el grupo focal o grupo de enfoque (focus group en inglés) es una técnica cualitativa de estudio, que se basa en las opiniones o actitudes de un grupo muy específico, utilizada en desarrollo de <em>software</em>.',
@@ -176,27 +196,27 @@ export default {
   referencias: [
     {
       referencia:
-        'Conesa Caralt, J. & Casas Roma, J. (2014). Diseño conceptual de bases de datos en UML. Barcelona. Editorial UOC',
+        'Conesa Caralt, J. & Casas Roma, J. (2014). <em>Diseño conceptual de bases de datos en UML</em>. Barcelona. Editorial UOC',
       link: '',
     },
     {
       referencia:
-        'Echeverri, J. & González, L. (2013). Reflexiones sobre ingeniería de requisitos y pruebas de software. Medellín. Corporación universitaria Remington',
+        'Echeverri, J. & González, L. (2013). <em>Reflexiones sobre ingeniería de requisitos y pruebas de software</em>. Medellín. Corporación universitaria Remington',
       link: '',
     },
     {
       referencia:
-        'Jiménez, C. (2021). UML. Arquitectura de aplicaciones en JAVA. C y Python. 2 Edición. ',
+        'Jiménez, C. (2021). UML. <em>Arquitectura de aplicaciones en JAVA. C y Python</em>. 2 Edición. ',
       link: 'http://www.ebooks7-24.com.bdigital.sena.edu.co/?il=17203',
     },
     {
       referencia:
-        'HubSpot. (2022). Qué es una encuesta, para qué sirve y qué tipos existen.',
+        'HubSpot. (2022). <em>Qué es una encuesta, para qué sirve y qué tipos existen</em>.',
       link: 'https://blog.hubspot.es/service/que-es-una-encuesta',
     },
     {
       referencia:
-        'Monroy, M. y Sánchez, N. (2018). Metodología de la investigación. Lapizlázuli ediciones.',
+        'Monroy, M. y Sánchez, N. (2018). <em>Metodología de la investigación. Lapizlázuli ediciones</em>.',
       link:
         'https://elibro-net.bdigital.sena.edu.co/es/ereader/senavirtual/172512',
     },
