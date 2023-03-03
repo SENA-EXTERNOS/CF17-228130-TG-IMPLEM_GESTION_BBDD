@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 2
-      h1 Ingeniería de Requisitos
+      h1 Ingeniería de requisitos
 
     p.mb-5 Es el proceso que involucra la selección, el análisis y la verificación de las necesidades del cliente, para implementar un sistema de <i>software</i>; esta ingeniería de requisitos, nos permite tener claras las especificaciones demandadas por el <i>software</i> de forma correcta y completa, proporcionando una mejora en su comprensión, así como en la definición del programa y su complejidad.
 

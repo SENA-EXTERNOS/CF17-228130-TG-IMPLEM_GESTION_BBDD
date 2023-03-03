@@ -58,7 +58,7 @@
           img(src="@/assets/curso/temas/tema3/img3_4.png", alt="alt")
       .col-xl-6
         .cajon.color-acento-contenido.p-4( style="background-color: #FFECC1")
-          p.mb-0(data-aos="fade-down") Lenguaje Unificado de Modelado “UML”(#[i Unified Modeling Language]), es el más reconocido, utilizado y difundido en la actualidad en cuanto a modelado de sistemas de #[i software]. Además del manejo gráfico, sobresale también su estandarización mundial.
+          p.mb-0(data-aos="fade-down") Lenguaje Unificado de Modelado “UML” (#[i Unified Modeling Language]), es el más reconocido, utilizado y difundido en la actualidad en cuanto a modelado de sistemas de #[i software]. Además del manejo gráfico, sobresale también su estandarización mundial.
 
 
     p(data-aos="fade-down") Al igual que la historia de la humanidad, en el desarrollo de #[i software] se fue dando la evolución en la medida de las necesidades, de esta forma, en la década de los 90, los sistemas de información se hicieron más complejos, cada vez era más difícil construir un sistema “desde cero”, características como el mantenimiento y la reutilización de código fuente, se alejaban cada vez más de los desarrolladores, aumentando considerablemente los cronogramas y tiempos requeridos para tal fin. #[br]#[br] Posteriormente surgieron los lenguajes de programación orientados a objetos, trayendo consigo, como es apenas lógico, los primeros lenguajes de modelado orientados a objetos. En esa misma época, aparecieron las primeras publicaciones, en forma masiva, sobre análisis y diseños orientados al tema. Era el momento de la creación de un lenguaje de modelado unificado. Fue así como a inicios de esos mismos años, los métodos orientados a objetos de Grady Booch y James Rumbaugh se difundieron y utilizaron muy ampliamente. Consecuentemente, en octubre de 1994,
@@ -273,7 +273,7 @@
 
     Separador
     #t_3_2.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
-      h3 3.2 #[i Story board]
+      h3 3.2 #[i Storyboard]
 
     .row.justify-content-center.align-items-center.mb-5
       .col-xl-4
@@ -296,7 +296,7 @@
       .col-lg-6
         img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/tema3/img3_11.png', alt='')
       .col-lg-6
-        h4 ¿Cómo se crea un Storyboard?
+        h4 ¿Cómo se crea un <em>Storyboard</em>?
 
         ol.lista-ol--cuadro.lista-ol--separador
           li

@@ -72,7 +72,7 @@ export default {
           {
             icono: 'far fa-file-alt',
             numero: '3.2',
-            titulo: '<em>Story board</em>',
+            titulo: '<em>Storyboard</em>',
             hash: 't_3_2',
           },
         ],

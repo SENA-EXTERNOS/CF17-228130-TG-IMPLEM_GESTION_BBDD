@@ -8,7 +8,7 @@
       h1 Técnicas de recolección de información
     .row
       .col-xl-12
-        p(data-aos="fade-down") La base fundamental en todo proyecto informático, especialmente en el campo del desarrollo de #[i software], es la información inicial del cliente, mejor conocido como los requerimientos. Para poder acceder a dicha información, debemos recolectar los datos que se necesiten, lo cual podemos definir como el uso de distintas y diversas técnicas y herramientas que tienen disponibles analistas, desarrolladores, etc. para ser utilizadas en los sistemas de información. Específicamente en el campo del desarrollo de #[i software], las más utilizadas y que más se ajustan a nuestras necesidades son: entrevistas, encuestas, cuestionarios, observación y #[i focus gruop]. Los instrumentos mencionados se deben aplicar con el propósito de obtener la información necesaria para comenzar el proyecto.
+        p(data-aos="fade-down") La base fundamental en todo proyecto informático, especialmente en el campo del desarrollo de #[i software], es la información inicial del cliente, mejor conocido como los requerimientos. Para poder acceder a dicha información, debemos recolectar los datos que se necesiten, lo cual podemos definir como el uso de distintas y diversas técnicas y herramientas que tienen disponibles analistas, desarrolladores, etc. para ser utilizadas en los sistemas de información. Específicamente en el campo del desarrollo de #[i software], las más utilizadas y que más se ajustan a nuestras necesidades son: entrevistas, encuestas, cuestionarios, observación y #[i focus group]. Los instrumentos mencionados se deben aplicar con el propósito de obtener la información necesaria para comenzar el proyecto.
 
     .titulo-segundo.color-acento-contenido
       h3(data-aos="zoom-in-left").mt-5 Entrevistas
@@ -172,7 +172,7 @@
     .row.justify-content-center.mb-5
       .col-xl-12
         p(data-aos="fade-down")
-          h3(data-aos="fade-down") ¿Cómo organizo un #[i Focus Gruop]?
+          h3(data-aos="fade-down") ¿Cómo organizo un #[i Focus Group]?
 
     .row.justify-content-center.mb-5
       .col-lg-10
@@ -183,7 +183,7 @@
                 li
                   i.fas.fa-check
                   .col-12
-                    p Es importante determinar de forma clara y precisa el objetivo del grupo y edificar el planteamiento del problema, centrándose en el producto #[i software] a construir.
+                    p Es importante determinar de forma clara y precisa, el objetivo del grupo y edificar el planteamiento del problema, centrándose en el producto #[i software] a construir.
                 li
                   i.fas.fa-check
                   .col-12
