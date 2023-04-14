@@ -88,7 +88,7 @@
             img(src='@/assets/curso/temas/tema1/img5.svg', alt='' style='width: 427px').m-auto
           .bloque-texto-g__texto--border.p-2.d-inline-block
             .bloque-texto-g__texto.p-4
-              p.mb-0 #[span El cuestionario] es un documento compuesto por una serie de preguntas coherentes, muy bien organizadas tanto en secuencia como en estructura, que parte de una planificación específica, esperando obtener respuestas que despejen las dudas planteadas. Los cuestionarios dan la posibilidad de un análisis más detallado, determinar comportamientos, tendencias y posturas. Si bien es cierto que son utilizados en todas las áreas del saber, en los proyectos de desarrollo de #[i software], cumplen con una función sobresaliente. Aunque es innegable su ahorro de tiempo, sus respuestas cortas, los pueden hacer ver como incompletos.
+              p.mb-0 #[b El cuestionario] es un documento compuesto por una serie de preguntas coherentes, muy bien organizadas tanto en secuencia como en estructura, que parte de una planificación específica, esperando obtener respuestas que despejen las dudas planteadas. Los cuestionarios dan la posibilidad de un análisis más detallado, determinar comportamientos, tendencias y posturas. Si bien es cierto que son utilizados en todas las áreas del saber, en los proyectos de desarrollo de #[i software], cumplen con una función sobresaliente. Aunque es innegable su ahorro de tiempo, sus respuestas cortas, los pueden hacer ver como incompletos.
 
     h3(data-aos="fade-right")
       i.fas.fa-square.cac.me-3
