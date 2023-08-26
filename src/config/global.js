@@ -2,7 +2,7 @@ export default {
   global: {
     componenteFormativo: 'Recolección de información',
     descripcionCurso:
-      'El desarrollo de <em>software</em> tiene como base la recopilación de datos, la cual le permite a los encargados, previo proceso de responder preguntas relevantes por parte de los interesados, mostrar claramente la forma de llevar procesos para poder evaluar y mostrar resultados e incluso, anticipar las posibles tendencias y/o mejoras futuras a las soluciones dadas.',
+      'El desarrollo de <em>software</em> tiene como base la recopilación de datos, la cual, le permite a los encargados, previo proceso de responder preguntas relevantes por parte de los interesados, mostrar claramente la forma de llevar procesos para poder evaluar y mostrar resultados e incluso, anticipar las posibles tendencias y/o mejoras futuras a las soluciones dadas.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.svg'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
@@ -207,7 +207,7 @@ export default {
     {
       referencia:
         'Jiménez, C. (2021). UML. <em>Arquitectura de aplicaciones en JAVA. C y Python</em>. 2 Edición. ',
-      link: 'http://www.ebooks7-24.com.bdigital.sena.edu.co/?il=17203',
+      link: '',
     },
     {
       referencia:

@@ -10,8 +10,6 @@
       .col-xl-12
         p(data-aos="fade-down") La base fundamental en todo proyecto informático, especialmente en el campo del desarrollo de #[i software], es la información inicial del cliente, mejor conocido como los requerimientos. Para poder acceder a dicha información, debemos recolectar los datos que se necesiten, lo cual podemos definir como el uso de distintas y diversas técnicas y herramientas que tienen disponibles analistas, desarrolladores, etc. para ser utilizadas en los sistemas de información. Específicamente en el campo del desarrollo de #[i software], las más utilizadas y que más se ajustan a nuestras necesidades son: entrevistas, encuestas, cuestionarios, observación y #[i focus group]. Los instrumentos mencionados se deben aplicar con el propósito de obtener la información necesaria para comenzar el proyecto.
 
-    .titulo-segundo.color-acento-contenido
-      h3(data-aos="zoom-in-left").mt-5 Entrevistas
 
     h3(data-aos="fade-right")
       i.fas.fa-square.cac.me-3
@@ -22,7 +20,7 @@
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-down").fondo-full
       .col-lg-12
         .p-5
-          img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/tema1/info_1.svg', alt='')
+          img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/tema1/c1.svg', alt='')
 
     .row.mb-4.mb-md-5(data-aos="fade-down")
       p(data-aos="fade-down").mb-1 Se presentan a continuación #[i tips] a tener en cuenta al momento de realizar la entrevista.
@@ -167,7 +165,7 @@
                 .h5.mb-0 Participantes
               .col-auto.d-none.d-lg-block
                 .bulletNumber
-            p Integrantes que, basados en su criterio, ejecutan y engrandecen el debate objeto de la reunión, preferiblemente, deben ser expertos en el tema de estudio, puesto que son los que aportan el conocimiento del tema y las mejores formas de aplicación.
+            p Integrantes que, basados en su criterio, ejecutan y engrandecen el debate objeto de la reunión, preferiblemente, deben ser expertos en el tema de estudio, puesto que son los que aportan el conocimiento y las mejores formas de aplicación.
 
     .row.justify-content-center.mb-5
       .col-xl-12
@@ -183,7 +181,7 @@
                 li
                   i.fas.fa-check
                   .col-12
-                    p Es importante determinar de forma clara y precisa, el objetivo del grupo y edificar el planteamiento del problema, centrándose en el producto #[i software] a construir.
+                    p Es importante determinar, de forma clara y precisa, el objetivo del grupo y edificar el planteamiento del problema, centrándose en el producto #[i software] a construir.
                 li
                   i.fas.fa-check
                   .col-12

@@ -27,7 +27,7 @@
                   p.mb-0 Cero ambigüedades, de tal manera que todos los integrantes del equipo conozcan, a ciencia cierta, qué se necesita realizar.
                 li 
                   i.fas.fa-check( style="color: #084A93")
-                  p.mb-0 La propuesta resultante, debe ser completamente comprendida y aprobada por el cliente quien, previamente, dará su visto bueno total y absoluto; además, debe acompañar todo el proceso del ciclo de vida de desarrollo del #[i software].
+                  p.mb-0 La propuesta resultante debe ser completamente comprendida y aprobada por el cliente quien, previamente, dará su visto bueno # total y absoluto; además, debe acompañar todo el proceso del ciclo de vida de desarrollo del #[i software].
                 li 
                   i.fas.fa-check( style="color: #084A93")
                   p.mb-0 Nunca perder el rumbo de los objetivos frente a las necesidades del proyecto, como condición indispensable para lograr los planes trazados.
@@ -49,7 +49,7 @@
           img(src="@/assets/curso/temas/tema2/img2_1.svg", alt="alt")
       .col-lg-8
         LineaTiempoD.color-secundario
-          p(numero="1" titulo="Inicio") Todo este proceso puede partir de una simple charla informal, en la cual la persona interesada (léase cliente) narra de forma libre y espontánea, su real necesidad sustentándola suficientemente.
+          p(numero="1" titulo="Inicio") Todo este proceso puede partir de una simple charla informal, en la cual la persona interesada (léase cliente) narra, de forma libre y espontánea, su real necesidad, sustentándola suficientemente.
 
           p(numero="2" titulo="Obtención / Extracción") Mediante la utilización de las herramientas de levantamiento de información antes estudiadas, se recolecta de forma organizada la información de los requisitos del proyecto.
 
@@ -78,7 +78,7 @@
 
         .row.justify-content-center.align-items-center.my-lg-4          
           .col-md-6.mb-4.mb-md-0
-            h3 Modelo en V (Verificación y Validación)
+            h3 Modelo en V (verificación y validación)
             p Luego de cada fase se realiza un proceso de verificación y validación, antes que inicie la siguiente  fase, lo cual implica una armonía muy sólida entre el diseño-desarrollo-pruebas.
           .col-md-6
             figure(data-aos="zoom-in")
@@ -114,7 +114,7 @@
     .row.justify-content-center.align-items-center.my-lg-4                
       .col-md-6
         figure(data-aos="zoom-in")
-          img(src='@/assets/curso/temas/tema2/1.svg', alt='Texto que describa la imagen')
+          img(src='@/assets/curso/temas/tema2/c1.svg', alt='Texto que describa la imagen')
       .col-md-6.mb-4.mb-md-0
         p En el idioma español cotidiano,<b> elicitar</b> se refiere al paso de información, de un ser humano a otro, de forma clara y sin interrupciones; aunque es un término muy ligado a la psicología, en la ingeniería de requisitos se utiliza este vocablo para hacer énfasis en la necesidad de conocer de manera amplia y suficiente el sistema actual, sus ventajas, desventajas, además de potenciar la comunicación con el cliente en busca de identificar realmente sus necesidades de todo tipo y brindarle una solución óptima.  
         br
