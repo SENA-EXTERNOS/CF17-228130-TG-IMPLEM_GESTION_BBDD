@@ -189,7 +189,7 @@
                 li
                   i.fas.fa-check
                   .col-12
-                    p Se agendan las sesiones del #[i focus group], con la antelación y duración requerida por la temática, aunque en promedio estas reuniones tienen una duración dos horas.
+                    p Se agendan las sesiones del #[i focus group], con la antelación y duración requerida por la temática, aunque en promedio estas reuniones tienen una duración de dos horas.
                 li
                   i.fas.fa-check
                   .col-12

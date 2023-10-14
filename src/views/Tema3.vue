@@ -35,7 +35,7 @@
       h3(data-aos="zoom-in-left").mt-5 3.1 Casos de uso
 
     p Ahora bien, la pregunta que se genera es ¿cuándo usar estas herramientas para la captura de requisitos, con el fin de facilitar dicha captura? Esta tarea no necesariamente es fácil, obtener los requerimientos puede llevarnos a enfrentar a las personas que no tienen claras las necesidades del #[em software].
-    p.mb-5 Con el fin de ubicar al aprendiz frente a los casos de uso de estas técnicas, e importante hacer una conceptualización y revisión temporal al respecto.
+    p.mb-5 Con el fin de ubicar al aprendiz frente a los casos de uso de estas técnicas, es importante hacer una conceptualización y revisión temporal al respecto.
 
     .row.justify-content-center.align-items-center.mb-5
       .col-xl-12
@@ -61,7 +61,7 @@
           p.mb-0(data-aos="fade-down") Lenguaje Unificado de Modelado “UML” (#[i Unified Modeling Language]), es el más reconocido, utilizado y difundido en la actualidad en cuanto a modelado de sistemas de #[i software]. Además del manejo gráfico, sobresale también su estandarización mundial.
 
 
-    p(data-aos="fade-down") Al igual que la historia de la humanidad, en el desarrollo de #[i software] se fue dando la evolución en la medida de las necesidades, de esta forma, en la década de los 90, los sistemas de información se hicieron más complejos, cada vez era más difícil construir un sistema “desde cero”, características como el mantenimiento y la reutilización de código fuente, se alejaban cada vez más de los desarrolladores, aumentando considerablemente los cronogramas y tiempos requeridos para tal fin. #[br]#[br] Posteriormente, surgieron los lenguajes de programación orientados a objetos, trayendo consigo, como es apenas lógico, los primeros lenguajes de modelado orientados a objetos. En esa misma época, aparecieron las primeras publicaciones, en forma masiva, sobre análisis y diseños orientados al tema. Era el momento de la creación de un lenguaje de modelado unificado. Fue así como a inicios de esos mismos años, los métodos orientados a objetos de Grady Booch y James Rumbaugh se difundieron y utilizaron muy ampliamente. Consecuentemente, en octubre de 1994, 
+    p(data-aos="fade-down") Al igual que la historia de la humanidad, en el desarrollo de #[i software] se fue dando la evolución en la medida de las necesidades, de esta forma, en la década de los 90, los sistemas de información se hicieron más complejos, cada vez era más difícil construir un sistema “desde cero”, características como el mantenimiento y la reutilización de código fuente, se alejaban cada vez más de los desarrolladores, aumentando considerablemente los cronogramas y tiempos requeridos para tal fin. #[br]#[br] Posteriormente, surgieron los lenguajes de programación orientados a objetos, trayendo consigo, como es apenas lógico, los primeros lenguajes de modelado orientados a objetos. En esa misma época, aparecieron las primeras publicaciones, en forma masiva, sobre análisis y diseños orientados al tema. Era el momento de la creación de un lenguaje de modelado unificado. Fue así como a inicios de esos mismos años, los métodos orientados a objetos de Grady Booch y James Rumbaugh se difundieron y utilizaron muy ampliamente. Consecuentemente, en octubre de 1994,
       span.text-bold( style="color: #000") #[i Rational Software Corporation ]
       | (que desde febrero de 2003 hace parte de IBM) inició su proyecto para la creación de un lenguaje de modelado unificado. El primer paso fue acordar una estandarización de la notación (lenguaje), que lo lograron integrando el Método Booch (de Grady Booch), la técnica de modelado de objetos (OMT por sus siglas en inglés, de James Rumbaugh) y la Ingeniería de #[i software] orientada a objetos (OOSE por sus siglas en inglés de Ivar Jacobsen), complementando con otros pocos elementos de otros métodos, publicando la nueva notación bajo el nombre UML (#[i Unified Modeling Language]).
 
@@ -290,7 +290,17 @@
       .col-xl-12
         div(style="background-color: #fff4da; border-left: 20px solid #ffb30b" data-aos="zoom-in").p-5.mb-5
           h4 ¿Cómo se trabaja una sesión de levantamiento de información con #[i Storyboard]?
-          p La recomendación es realizar una charla informal, libre de tensiones, en la cual socializamos con el usuario, mediante la construcción de un #[i Storyboard], todas y cada una de las funcionalidades del proyecto; algunos autores se atreven a ir más allá y utilizan el término de “Prototipo #[i Storyboard]”, basados en aspectos como: navegación, se representa el diseño lógico preliminar, tal que se muestra el orden opciones, formularios, interfases, etc. Validaciones del sistema, mostrar y validar con el usuario las validaciones a la información de entrada y hasta de salida, que se aplica en el proyecto. Aprovechamiento máximo de recursos, se plantea la optimización del tiempo de procesamiento y las personas implicadas en cada proceso.
+          p La recomendación es realizar una charla informal, libre de tensiones, en la cual socializamos con el usuario, mediante la construcción de un #[i Storyboard], todas y cada una de las funcionalidades del proyecto; algunos autores se atreven a ir más allá y utilizan el término de “Prototipo #[i Storyboard]”, basados en aspectos como:
+          ul.lista-ul
+            li
+              i.lista-ul__vineta
+              span Navegación, se representa el diseño lógico preliminar, tal que se muestra el orden, opciones, formularios, interfaces, etc.
+            li
+              i.lista-ul__vineta
+              span Validaciones del sistema, mostrar y validar con el usuario las validaciones a la información de entrada y hasta de salida, que se aplica en el proyecto.
+            li
+              i.lista-ul__vineta
+              span Aprovechamiento máximo de recursos, se plantea la optimización del tiempo de procesamiento y las personas implicadas en cada proceso.
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-6
