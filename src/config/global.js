@@ -53,7 +53,7 @@ export default {
         nombreRuta: 'tema2',
         icono: 'far fa-file-alt',
         numero: '2',
-        titulo: 'Ingeniería de Requisitos',
+        titulo: 'Ingeniería de requisitos',
         desarrolloContenidos: true,
       },
       {
